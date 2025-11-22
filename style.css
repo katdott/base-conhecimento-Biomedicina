@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Special+Gothic:wght@400..700&display=swap');
 /* Importa a fonte Quicksand do Google Fonts */
 
 * {
@@ -7,11 +8,11 @@
 }
 
 :root {
-    --primary-color: #8ab4f8;
+    --primary-color: #6bbba4;
     /* Cor primária (azul claro) */
-    --secondary-color: #e8eaed;
+    --secondary-color: #6bbba4;
     /* Cor secundária (cinza claro) */
-    --tertiary-color: #9aa0a6;
+    --tertiary-color: #bec4ca;
     /* Cor terciária (cinza médio) */
     --bg-color: #202124;
     /* Cor de fundo (cinza escuro) */
@@ -20,11 +21,18 @@
 body {
     margin: 0;
     /* Remove a margem padrão do body */
-    background: var(--bg-color);
+    background-color: var(--bg-color);
+    /* Define a cor de fundo usando uma variável */
+    background-image: linear-gradient(rgba(32, 33, 36, 0.9), rgba(32, 33, 36, 0.9)), url('./src/img/bg_biomed.png');
+    /* Adiciona uma imagem de fundo com sobreposição escura */
+    background-size: cover;
+    /* Faz a imagem cobrir todo o fundo */
+    background-position: center;
+    /* Centraliza a imagem de fundo */
     /* Define a cor de fundo usando uma variável */
     color: var(--secondary-color);
     /* Define a cor do texto padrão usando uma variável */
-    font-family: "Quicksand", sans-serif;
+    font-family: "Special Gothic", sans-serif;
     /* Define a família da fonte */
     display: flex;
     flex-direction: column;
@@ -70,7 +78,7 @@ div input {
     /* Espaçamento interno */
     border-radius: 1rem;
     /* Arredonda as bordas */
-    border: 1px solid var(--tertiary-color);
+    border: 1px solid var(--primary-color);
     /* Define a borda */
     background: var(--bg-color);
     /* Cor de fundo */

@@ -1,48 +1,76 @@
 {
-  "artistas": [
+  "termos": [
     {
-      "nome": "Pitty",
-      "descricao": "Cantora, compositora e produtora baiana, conhecida por seu estilo rock alternativo e letras introspectivas. É uma das principais vozes femininas do rock nacional.",
-      "curiosidade": "Ela é formada em Publicidade e Propaganda e chegou a trabalhar com marketing antes de se dedicar inteiramente à música. Seu primeiro EP foi produzido em casa, no quarto dela, usando um computador antigo e programas de gravação caseiros."
+      "termo": "PCR (Reação em Cadeia da Polimerase)",
+      "definicao": "Técnica molecular usada para amplificar fragmentos específicos de DNA, permitindo sua detecção e análise.",
+      "categoria": "Biologia Molecular",
+      "classificacao": "Técnica Laboratorial",
+      "sigla": "PCR (Polymerase Chain Reaction)",
+      "frequencia_uso": "Avançado",
+      "referencia": {
+        "texto": "ScienceDirect - PCR",
+        "url": "https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/polymerase-chain-reaction"
+      }
     },
     {
-      "nome": "Raul Seixas",
-      "descricao": "Considerado o \"Maluco Beleza\", foi um ícone do rock brasileiro nos anos 1970, conhecido por misturar rock com elementos da cultura brasileira e uma imagem de rebeldia.",
-      "curiosidade": "Raul era fluente em inglês e chegou a ser convidado para integrar uma banda nos Estados Unidos antes mesmo de consolidar sua carreira no Brasil. No entanto, recusou o convite para continuar a explorar sua identidade artística no Brasil."
+      "termo": "Hemácias (Glóbulos Vermelhos)",
+      "definicao": "Células sanguíneas responsáveis pelo transporte de oxigênio dos pulmões para os tecidos e do dióxido de carbono de volta aos pulmões.",
+      "categoria": "Citologia / Hematologia",
+      "classificacao": "Célula",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Básico",
+      "referencia": {
+        "texto": "Tua Saúde - Hemácias",
+        "url": "https://www.tuasaude.com/hemacias/"
+      }
     },
     {
-      "nome": "Legião Urbana (Renato Russo)",
-      "descricao": "Banda de rock formada no Rio de Janeiro, liderada por Renato Russo. Tornou-se uma das mais importantes do rock nacional, com letras poéticas e críticas sociais.",
-      "curiosidade": "Renato Russo era fluente em inglês, francês e italiano. Ele chegou a trabalhar como tradutor voluntário em eventos internacionais e lia diversos clássicos da literatura europeia em idiomas originais."
+      "termo": "ELISA (Imunossorção Enzimática)",
+      "definicao": "Técnica bioquímica utilizada para detectar a presença de anticorpos, antígenos, proteínas ou outros compostos em uma amostra.",
+      "categoria": "Imunologia / Bioquímica",
+      "classificacao": "Técnica Laboratorial",
+      "sigla": "ELISA (Enzyme-Linked Immunosorbent Assay)",
+      "frequencia_uso": "Intermediário",
+      "referencia": {
+        "texto": "Nature - ELISA",
+        "url": "https://www.nature.com/scitable/definition/elisa-19/"
+      }
     },
     {
-      "nome": "Sepultura",
-      "descricao": "Banda mineira de metal extremo, reconhecida internacionalmente. Iniciou sua carreira no thrash/death metal e evoluiu musicalmente ao longo dos anos, incorporando elementos tribais, world music e até instrumentos indígenas.",
-      "curiosidade": "A banda foi a primeira da cena metal a convidar o percussionista brasileiro Carlinhos Brown para gravar uma música com eles, no álbum Roots (1996), misturando metal com ritmos afro-brasileiros."
+      "termo": "Homeostase",
+      "definicao": "Capacidade do organismo de manter constante o ambiente interno, mesmo diante de mudanças externas.",
+      "categoria": "Fisiologia",
+      "classificacao": "Processo Fisiológico",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Básico",
+      "referencia": {
+        "texto": "SciELO - Homeostase",
+        "url": "https://www.scielo.br/j/rbem/a/4sLkVfQbqLXwzgGyLkVfQbq/"
+      }
     },
     {
-      "nome": "Titãs",
-      "descricao": "Banda paulista formada na virada dos anos 1970 para 1980, conhecida por sua versatilidade e mistura de rock com outros estilos, como new wave, funk e samba. São uma das bandas mais influentes do rock brasileiro.",
-      "curiosidade": "O nome \"Titãs\" foi sugerido por Arnaldo Antunes, após uma brincadeira com a ideia de que a banda queria \"mexer com tudo\". A capa do álbum Cabeça Dinossauro foi feita com uma fotografia do próprio Arnaldo como uma brincadeira simbólica."
+      "termo": "RT-PCR (Transcrição Reversa)",
+      "definicao": "Técnica que combina a transcrição reversa do RNA em DNA complementar (cDNA) e a amplificação desse DNA por PCR.",
+      "categoria": "Biologia Molecular",
+      "classificacao": "Técnica Laboratorial",
+      "sigla": "RT-PCR (Reverse Transcription Polymerase Chain Reaction)",
+      "frequencia_uso": "Avançado",
+      "referencia": {
+        "texto": "Thermo Fisher - RT-PCR",
+        "url": "https://www.thermofisher.com/br/pt/home/life-science/pcr/real-time-pcr/real-time-pcr-learning-center/rt-pcr.html"
+      }
     },
     {
-      "nome": "Charlie Brown Jr.",
-      "descricao": "Banda de rock alternativo e rap rock de Santos, liderada por Chorão. Mistura rock com elementos de reggae, rap e cultura urbana, com letras que retratam o cotidiano e a marginalização.",
-      "curiosidade": "Chorão (Alexandre Magno) era formado em Educação Física e chegou a dar aulas antes de o Charlie Brown Jr. decolar. Além disso, ele era conhecido por escrever poemas desde a adolescência, e muitas das suas letras eram baseadas nesses textos."
-    },
-    {
-      "nome": "Cássia Eller",
-      "descricao": "Cantora e compositora mineira, conhecida por sua voz potente e versatilidade, mesclando rock, MPB e reggae. Tornou-se uma das maiores intérpretes da música brasileira, com covers de compositores como Legião Urbana e Raul Seixas.",
-      "curiosidade": "Cássia era uma grande fã de Raul Seixas e chegou a sonhar com ele antes de sua morte. Depois disso, passou a cantar várias de suas músicas, como forma de homenagem, e era conhecida por dizer que sentia \"uma energia muito forte\" ao cantar as composições dele."
-    },
-    {
-      "nome": "Paulo Ricardo",
-      "descricao": "Músico, compositor e ator, foi vocalista e guitarrista da banda RPM, um dos grandes nomes do rock brasileiro dos anos 1980. Após a separação da banda, seguiu carreira solo e também se destacou na TV como ator."
-    },
-    {
-      "nome": "Marina Lima",
-      "descricao": "Cantora e compositora pernambucana, uma das pioneiras do rock feminino no Brasil. Sua voz grave e estilo único fizeram dela uma referência da música nacional nos anos 1980 e 1990.",
-      "curiosidade": "Marina Lima tem uma licenciatura em Letras e chegou a ser professora de literatura antes de se tornar cantora. Muitas das suas letras são fortemente influenciadas por poetas como Carlos Drummond de Andrade e Clarice Lispector."
+      "termo": "Antígeno",
+      "definicao": "Substância estranha (como proteínas de vírus ou bactérias) que induz uma resposta imunológica no organismo.",
+      "categoria": "Imunologia",
+      "classificacao": "Molécula",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Básico",
+      "referencia": {
+        "texto": "NCBI - Antígeno",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK27158/"
+      }
     }
   ]
 }
