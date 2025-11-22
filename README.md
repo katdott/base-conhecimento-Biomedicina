@@ -1,6 +1,13 @@
 # Base de Conhecimento - Glossário de Biomedicina
 
-Este é um projeto de front-end que cria uma base de conhecimento interativa para termos de biomedicina, desenvolvido durante a **Imersão Dev da Alura com o Google**. Funciona como um glossário dinâmico, permitindo que os usuários pesquisem, filtrem e explorem uma vasta lista de termos técnicos de forma fácil e intuitiva.
+Este é um projeto de front-end que cria uma base de conhecimento interativa para termos de biomedicina, desenvolvido durante a **Imersão Dev da Alura com o Google**. Funciona como um glossário dinâmico que permite aos usuários pesquisar, filtrar e explorar termos técnicos de forma fácil e intuitiva. Atualmente, o glossário conta com 131 termos, mas existem planos para sua expansão contínua.
+
+## 🎯 Objetivo do Projeto
+
+O principal objetivo deste projeto é duplo:
+
+1.  **Desenvolvimento Pessoal:** Servir como uma plataforma para treinar e aprimorar conhecimentos em HTML, CSS e JavaScript, com foco na criação de páginas web dinâmicas e interativas.
+2.  **Ferramenta de Apoio:** Criar um recurso útil que possa auxiliar estudantes e recém-formados na área de biomedicina a consultar e entender termos técnicos de forma rápida e acessível.
 
 ## ✨ Funcionalidades
 

@@ -971,6 +971,606 @@
         "texto": "Nature Reviews Molecular Cell Biology - Cilia and Flagella",
         "url": "https://www.nature.com/nrm/articles"
       }
+    },
+    {
+      "termo": "Pletismografia",
+      "definicao": "Técnica utilizada para medir volumes pulmonares estáticos e dinâmicos, como a capacidade pulmonar total (CPT) e o volume residual (VR), por meio da variação de pressão e volume em uma cabine fechada.",
+      "categoria": "Fisiologia Respiratória",
+      "classificacao": "Técnica de Diagnóstico",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Avançado",
+      "referencia": {
+        "texto": "American Thoracic Society (ATS) - Pulmonary Function Testing",
+        "url": "https://www.thoracic.org/patients/patient-resources/resources/pulmonary-function-testing.pdf"
+      }
+    },
+    {
+      "termo": "Citocromo P450",
+      "definicao": "Superfamília de enzimas que desempenha um papel crucial no metabolismo de xenobióticos e drogas, geralmente oxidando-os para facilitar a excreção. São fundamentais em interações medicamentosas.",
+      "categoria": "Farmacologia",
+      "classificacao": "Molécula",
+      "sigla": "CYP",
+      "frequencia_uso": "Intermediário",
+      "referencia": {
+        "texto": "NCBI Bookshelf - Cytochrome P450",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK557769/"
+      }
+    },
+    {
+      "termo": "Síncope Vasovagal",
+      "definicao": "Perda temporária de consciência causada por uma resposta reflexa que leva a uma diminuição abrupta da frequência cardíaca (bradicardia) e/ou queda da pressão arterial (vasodilatação), resultando em fluxo sanguíneo cerebral insuficiente.",
+      "categoria": "Cardiologia",
+      "classificacao": "Processo Fisiológico",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Básico",
+      "referencia": {
+        "texto": "Mayo Clinic - Vasovagal Syncope",
+        "url": "https://www.mayoclinic.org/diseases-conditions/vasovagal-syncope/symptoms-causes/syc-20350527"
+      }
+    },
+    {
+      "termo": "Degranulação",
+      "definicao": "Processo celular em que grânulos armazenados em certas células (como mastócitos, basófilos e neutrófilos) liberam seu conteúdo químico (como histamina e mediadores inflamatórios) no meio extracelular em resposta a um estímulo.",
+      "categoria": "Imunologia",
+      "classificacao": "Processo Celular",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Intermediário",
+      "referencia": {
+        "texto": "Nature Reviews Immunology - Degranulation mechanisms",
+        "url": "https://www.nature.com/articles/nri3861"
+      }
+    },
+    {
+      "termo": "Análise de Sobrevida",
+      "definicao": "Conjunto de métodos estatísticos utilizados para analisar o tempo decorrido até a ocorrência de um evento de interesse (como morte, recorrência de doença ou falha de um dispositivo) em uma população, frequentemente usando o método de Kaplan-Meier.",
+      "categoria": "Bioestatística Clínica",
+      "classificacao": "Técnica de Análise",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Avançado",
+      "referencia": {
+        "texto": "Journal of Clinical Oncology - Survival Analysis",
+        "url": "https://ascopubs.org/doi/full/10.1200/jco.2008.16.2084"
+      }
+    },
+    {
+      "termo": "Transcritoma",
+      "definicao": "O conjunto completo de moléculas de RNA, incluindo mRNA, rRNA, tRNA e outros RNAs não codificadores, expressas por um organismo ou população celular em um determinado estágio de desenvolvimento ou condição fisiológica.",
+      "categoria": "Genômica",
+      "classificacao": "Conjunto Molecular",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Intermediário",
+      "referencia": {
+        "texto": "National Human Genome Research Institute - Transcriptome",
+        "url": "https://www.genome.gov/genetics-glossary/Transcriptome"
+      }
+    },
+    {
+      "termo": "Fenótipo de Transição Epitélio-Mesenquimal",
+      "definicao": "Processo biológico em que células epiteliais perdem a polaridade e a adesão intercelular, adquirindo características fenotípicas de células mesenquimais, o que é crucial para a progressão e metástase do câncer.",
+      "categoria": "Oncologia Molecular",
+      "classificacao": "Processo Fisiológico",
+      "sigla": "EMT",
+      "frequencia_uso": "Avançado",
+      "referencia": {
+        "texto": "Cell Press - Epithelial-Mesenchymal Transition in Cancer",
+        "url": "https://www.cell.com/cell/fulltext/S0092-8674(09)00827-X"
+      }
+    },
+    {
+      "termo": "Lipoproteína de Baixa Densidade",
+      "definicao": "Complexo molecular que transporta colesterol do fígado para os tecidos periféricos. Níveis elevados estão associados a um risco aumentado de aterosclerose e doenças cardiovasculares, sendo frequentemente denominada 'colesterol ruim'.",
+      "categoria": "Bioquímica Clínica",
+      "classificacao": "Molécula",
+      "sigla": "LDL",
+      "frequencia_uso": "Básico",
+      "referencia": {
+        "texto": "Centers for Disease Control and Prevention (CDC) - Cholesterol",
+        "url": "https://www.cdc.gov/cholesterol/ldl_hdl.htm"
+      }
+    },
+    {
+      "termo": "Osmolaridade Plasmática",
+      "definicao": "Medida da concentração total de partículas osmoticamente ativas dissolvidas no plasma sanguíneo, refletindo principalmente a concentração de sódio, glicose e ureia. É crucial para a manutenção do equilíbrio hídrico e eletrolítico.",
+      "categoria": "Fisiologia Renal",
+      "classificacao": "Parâmetro Analítico",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Intermediário",
+      "referencia": {
+        "texto": "ScienceDirect - Plasma Osmolality",
+        "url": "https://www.sciencedirect.com/topics/medicine-and-dentistry/plasma-osmolality"
+      }
+    },
+    {
+      "termo": "Cariotipagem por Banda G",
+      "definicao": "Técnica laboratorial que envolve a coloração dos cromossomos metafásicos com Giemsa para produzir um padrão de bandas claro e escuro, permitindo a identificação precisa de anomalias estruturais e numéricas cromossômicas.",
+      "categoria": "Genética Laboratorial",
+      "classificacao": "Técnica Laboratorial",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Intermediário",
+      "referencia": {
+        "texto": "NCBI Bookshelf - Cytogenetic Analysis",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK1316/"
+      }
+    },
+    {
+      "termo": "Células Mesenquimais Estaminais",
+      "definicao": "Células multipotentes não hematopoiéticas que podem se diferenciar em vários tipos de células, incluindo osteoblastos, condrócitos e adipócitos. São amplamente estudadas em medicina regenerativa e terapias celulares.",
+      "categoria": "Terapia Celular",
+      "classificacao": "Célula",
+      "sigla": "MSC",
+      "frequencia_uso": "Avançado",
+      "referencia": {
+        "texto": "International Society for Stem Cell Research (ISSCR) - Mesenchymal Stem Cells",
+        "url": "https://www.isscr.org/docs/default-source/stem-cell-basics-2023/mscs_patient_guide_isscr-1.pdf"
+      }
+    },
+    {
+      "termo": "Piroptose",
+      "definicao": "Uma forma altamente inflamatória de morte celular programada que é desencadeada por infecções microbianas intracelulares e envolve a ativação da caspase-1 e a subsequente liberação de mediadores pró-inflamatórios, levando ao inchaço e lise celular.",
+      "categoria": "Morte Celular",
+      "classificacao": "Processo Celular",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Avançado",
+      "referencia": {
+        "texto": "Cell Death & Differentiation - Pyroptosis",
+        "url": "https://www.nature.com/articles/s41418-021-00803-1"
+      }
+    },
+    {
+      "termo": "VDRL (Venereal Disease Research Laboratory)",
+      "definicao": "Teste laboratorial não treponêmico usado para triagem de sífilis. Ele detecta anticorpos inespecíficos produzidos pelo paciente contra lipídios liberados de células danificadas pelo agente causador da sífilis.",
+      "categoria": "Sorologia",
+      "classificacao": "Técnica Laboratorial",
+      "sigla": "VDRL",
+      "frequencia_uso": "Intermediário",
+      "referencia": {
+        "texto": "Centers for Disease Control and Prevention (CDC) - Syphilis Testing",
+        "url": "https://www.cdc.gov/std/syphilis/stdfact-syphilis-testing.htm"
+      }
+    },
+    {
+      "termo": "Quimiotaxia",
+      "definicao": "Movimento direcional de uma célula ou organismo em resposta a um gradiente de concentração de uma substância química (quimioatraente ou quimiorepelente). É essencial na migração de leucócitos para locais de infecção.",
+      "categoria": "Biologia Celular",
+      "classificacao": "Processo Fisiológico",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Básico",
+      "referencia": {
+        "texto": "Annual Review of Immunology - Chemotaxis",
+        "url": "https://www.annualreviews.org/doi/full/10.1146/annurev.immunol.21.120601.141153"
+      }
+    },
+    {
+      "termo": "Glicemia de Jejum",
+      "definicao": "Concentração de glicose no sangue medida após um período de jejum de pelo menos 8 horas. É o teste primário para o diagnóstico de diabetes mellitus e pré-diabetes.",
+      "categoria": "Bioquímica Clínica",
+      "classificacao": "Parâmetro Analítico",
+      "sigla": "GJ",
+      "frequencia_uso": "Básico",
+      "referencia": {
+        "texto": "American Diabetes Association (ADA) - Diagnosis",
+        "url": "https://diabetesjournals.org/care/article/43/Supplement_1/S14/30678/2-Classification-and-Diagnosis-of-Diabetes"
+      }
+    },
+    {
+      "termo": "Antivirais de Ação Direta",
+      "definicao": "Classe de medicamentos que atua diretamente em alvos específicos no ciclo de vida viral (como replicação ou montagem), em contraste com antivirais que estimulam a resposta imune do hospedeiro.",
+      "categoria": "Farmacologia",
+      "classificacao": "Classe Terapêutica",
+      "sigla": "DAA",
+      "frequencia_uso": "Avançado",
+      "referencia": {
+        "texto": "World Health Organization (WHO) - Direct-acting antivirals",
+        "url": "https://www.who.int/news-room/questions-and-answers/item/direct-acting-antivirals-(daas)"
+      }
+    },
+    {
+      "termo": "Exossomos",
+      "definicao": "Vesículas extracelulares pequenas (30-150 nm) liberadas pela maioria dos tipos de células, contendo proteínas, lipídios e ácidos nucleicos. Atuam como mensageiros intercelulares, participando da comunicação celular e patogênese.",
+      "categoria": "Biologia Molecular",
+      "classificacao": "Vesícula Extracelular",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Avançado",
+      "referencia": {
+        "texto": "Journal of Extracellular Vesicles (JEV) - Exosomes",
+        "url": "https://www.tandfonline.com/doi/full/10.3402/jev.v1i0.18731"
+      }
+    },
+    {
+      "termo": "Genotipagem",
+      "definicao": "Processo de determinação da composição genética (genótipo) de um indivíduo através da análise de sequências de DNA específicas, como SNPs, marcadores ou alelos.",
+      "categoria": "Genética",
+      "classificacao": "Técnica Laboratorial",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Intermediário",
+      "referencia": {
+        "texto": "National Human Genome Research Institute - Genotyping",
+        "url": "https://www.genome.gov/genetics-glossary/Genotyping"
+      }
+    },
+    {
+      "termo": "Proteoma",
+      "definicao": "O conjunto completo de proteínas expressas por um organismo, sistema celular ou tecido em um determinado momento, sob condições específicas. O estudo do proteoma é conhecido como Proteômica.",
+      "categoria": "Proteômica",
+      "classificacao": "Conjunto Molecular",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Avançado",
+      "referencia": {
+        "texto": "Proteomics International - What is the Proteome?",
+        "url": "https://www.proteomics.com.au/proteomics/what-is-the-proteome/"
+      }
+    },
+    {
+      "termo": "Saturação de Oxigênio",
+      "definicao": "A proporção de hemoglobina que está ligada ao oxigênio (oxi-hemoglobina) em relação à capacidade total de transporte de oxigênio do sangue. É um indicador vital da função respiratória e circulatória.",
+      "categoria": "Fisiologia Respiratória",
+      "classificacao": "Parâmetro Analítico",
+      "sigla": "SpO2",
+      "frequencia_uso": "Básico",
+      "referencia": {
+        "texto": "American Lung Association - Pulse Oximetry",
+        "url": "https://www.lung.org/lung-health-diseases/lung-procedures-and-tests/pulse-oximetry"
+      }
+    },
+    {
+      "termo": "Ensaio de MTT",
+      "definicao": "Ensaio colorimétrico utilizado para medir a atividade metabólica celular, que é indicativa da viabilidade, proliferação ou toxicidade de células em cultura. Baseia-se na redução de um sal de tetrazólio por enzimas mitocondriais.",
+      "categoria": "Viabilidade Celular",
+      "classificacao": "Técnica Laboratorial",
+      "sigla": "MTT",
+      "frequencia_uso": "Intermediário",
+      "referencia": {
+        "texto": "Journal of Pharmacological and Toxicological Methods - MTT Assay",
+        "url": "https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/mtt-assay"
+      }
+    },
+    {
+      "termo": "Receptor de Angiotensina II Tipo 1",
+      "definicao": "Receptor de membrana expresso em vários tecidos (vasos sanguíneos, rins, coração) que media a maior parte dos efeitos fisiológicos e patofisiológicos da Angiotensina II, incluindo vasoconstrição, liberação de aldosterona e remodelação cardíaca.",
+      "categoria": "Fisiologia Cardiovascular",
+      "classificacao": "Molécula",
+      "sigla": "AT1",
+      "frequencia_uso": "Avançado",
+      "referencia": {
+        "texto": "Physiological Reviews - Angiotensin II Receptors",
+        "url": "https://journals.physiology.org/doi/full/10.1152/physrev.00018.2008"
+      }
+    },
+    {
+      "termo": "Transaminase Glutâmico-Pirúvica",
+      "definicao": "Enzima presente em altas concentrações no fígado. Sua elevação no plasma sanguíneo é um indicador sensível de lesão hepatocelular (hepatite, cirrose ou toxicidade por drogas).",
+      "categoria": "Bioquímica Hepática",
+      "classificacao": "Enzima",
+      "sigla": "TGP",
+      "frequencia_uso": "Básico",
+      "referencia": {
+        "texto": "MedlinePlus - ALT (Alanine Aminotransferase) Test",
+        "url": "https://medlineplus.gov/lab-tests/alt-alanine-aminotransferase-test/"
+      }
+    },
+    {
+      "termo": "Microbiota Comensal",
+      "definicao": "Comunidade de microrganismos (bactérias, fungos, vírus) que reside permanentemente em um hospedeiro sem causar doença, desempenhando papéis importantes na digestão, metabolismo e maturação do sistema imunológico.",
+      "categoria": "Microbiologia",
+      "classificacao": "Conjunto Microbiano",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Intermediário",
+      "referencia": {
+        "texto": "NIH Human Microbiome Project",
+        "url": "https://www.nih.gov/news-events/news-releases/nih-human-microbiome-project-defines-normal-bacterial-makeup-body"
+      }
+    },
+    {
+      "termo": "Vasodilatação",
+      "definicao": "Processo fisiológico de alargamento dos vasos sanguíneos, particularmente as arteríolas e veias, resultante do relaxamento do músculo liso na parede vascular, levando à diminuição da resistência vascular e aumento do fluxo sanguíneo.",
+      "categoria": "Fisiologia Vascular",
+      "classificacao": "Processo Fisiológico",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Básico",
+      "referencia": {
+        "texto": "Nature Reviews Cardiology - Vasodilation mechanisms",
+        "url": "https://www.nature.com/articles/nrcardio.2015.197"
+      }
+    },
+    {
+      "termo": "Excipiente",
+      "definicao": "Substância farmacologicamente inativa adicionada a medicamentos, cosméticos ou suplementos para dar volume, estabilizar, conferir sabor, ou facilitar a absorção do princípio ativo.",
+      "categoria": "Farmacologia",
+      "classificacao": "Componente Farmacêutico",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Intermediário",
+      "referencia": {
+        "texto": "FDA - Guidance for Industry: Excipients",
+        "url": "https://www.fda.gov/drugs/guidance-compliance-regulatory-information/guidance-industry-nonclinical-evaluation-safety-pharmaceutical-excipients"
+      }
+    },
+    {
+      "termo": "Padrão Ouro",
+      "definicao": "O melhor método, teste ou procedimento disponível na prática clínica para determinar a presença ou ausência de uma doença ou condição. É usado como referência para validar novos testes.",
+      "categoria": "Epidemiologia Clínica",
+      "classificacao": "Metodologia",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Básico",
+      "referencia": {
+        "texto": "Organização Mundial da Saúde (OMS) - Padrões",
+        "url": "https://www.who.int/topics/standardization/en/"
+      }
+    },
+    {
+      "termo": "Biopsia por Agulha Grossa",
+      "definicao": "Procedimento diagnóstico que utiliza uma agulha de calibre maior para remover amostras cilíndricas de tecido, geralmente de tumores, sob orientação de imagem (ultrassom ou mamografia), para análise histopatológica.",
+      "categoria": "Patologia Clínica",
+      "classificacao": "Técnica Laboratorial",
+      "sigla": "BAG",
+      "frequencia_uso": "Intermediário",
+      "referencia": {
+        "texto": "American Cancer Society - Tipos de Biópsia",
+        "url": "https://www.cancer.org/treatment/understanding-your-diagnosis/tests/biopsy.html"
+      }
+    },
+    {
+      "termo": "Fator de Necrose Tumoral Alfa",
+      "definicao": "Uma citocina pró-inflamatória multifuncional envolvida na regulação de processos como inflamação sistêmica, necrose de tumores e resposta imune a infecções.",
+      "categoria": "Imunologia",
+      "classificacao": "Molécula",
+      "sigla": "TNF-α",
+      "frequencia_uso": "Avançado",
+      "referencia": {
+        "texto": "National Center for Biotechnology Information - TNF-alpha Functions",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4046757/"
+      }
+    },
+    {
+      "termo": "Mutação Missense",
+      "definicao": "Um tipo de mutação pontual na sequência de DNA que resulta na substituição de um único nucleotídeo, levando à codificação de um aminoácido diferente na proteína resultante.",
+      "categoria": "Genética Molecular",
+      "classificacao": "Alteração Genética",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Avançado",
+      "referencia": {
+        "texto": "National Library of Medicine - Tipos de Mutações",
+        "url": "https://ghr.nlm.nih.gov/primer/mutationsanddisorders/typesofmutations"
+      }
+    },
+    {
+      "termo": "Reservatório de Patógeno",
+      "definicao": "População, ambiente ou organismo (humano ou animal) onde um agente infeccioso vive e se multiplica, podendo ser transmitido a um hospedeiro suscetível.",
+      "categoria": "Microbiologia",
+      "classificacao": "Ecologia Microbiana",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Básico",
+      "referencia": {
+        "texto": "Centers for Disease Control and Prevention - Zoonotic Diseases",
+        "url": "https://www.cdc.gov/onehealth/basics/zoonotic-diseases.html"
+      }
+    },
+    {
+      "termo": "Proteína Quinase B",
+      "definicao": "Uma serina/treonina quinase crucial na transdução de sinais intracelulares, envolvida principalmente na regulação do metabolismo, sobrevivência celular, proliferação e angiogênese.",
+      "categoria": "Sinalização Celular",
+      "classificacao": "Molécula",
+      "sigla": "PKB (ou Akt)",
+      "frequencia_uso": "Avançado",
+      "referencia": {
+        "texto": "Cell Signaling Technology - PI3K/Akt Signaling Pathway",
+        "url": "https://www.cellsignal.com/pathways/pi3k-akt-signaling"
+      }
+    },
+    {
+      "termo": "Fibroblasto",
+      "definicao": "Célula mais comum do tecido conjuntivo, responsável pela síntese de colágeno, elastina, glicosaminoglicanos e outras matrizes extracelulares, desempenhando um papel crucial na cicatrização de feridas e manutenção estrutural.",
+      "categoria": "Histologia",
+      "classificacao": "Célula",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Básico",
+      "referencia": {
+        "texto": "ScienceDirect - Fibroblastos",
+        "url": "https://www.sciencedirect.com/topics/medicine-and-dentistry/fibroblast"
+      }
+    },
+    {
+      "termo": "Dose de Reforço",
+      "definicao": "Uma dose adicional de uma vacina administrada após a série de imunização primária, destinada a aumentar ou restaurar a eficácia da proteção imunológica que pode ter diminuído com o tempo.",
+      "categoria": "Vacinologia",
+      "classificacao": "Farmacologia",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Básico",
+      "referencia": {
+        "texto": "Centers for Disease Control and Prevention - Vaccine Recommendations",
+        "url": "https://www.cdc.gov/vaccines/vpd/acip/recommendations.html"
+      }
+    },
+    {
+      "termo": "Fenotipagem de Grupo Sanguíneo",
+      "definicao": "Técnica laboratorial utilizada para determinar quais antígenos do sistema ABO e Rh, bem como outros sistemas de grupos sanguíneos (como Kell ou Duffy), estão presentes na superfície das hemácias de um indivíduo.",
+      "categoria": "Hematologia",
+      "classificacao": "Técnica Laboratorial",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Intermediário",
+      "referencia": {
+        "texto": "AABB (Association for the Advancement of Blood and Biotherapies) - Blood Banking",
+        "url": "https://www.aabb.org/docs/default-source/default-document-library/resources/blood-banking-overview.pdf"
+      }
+    },
+    {
+      "termo": "Microgliócito",
+      "definicao": "Células imunes residentes primárias do sistema nervoso central (SNC), que funcionam como macrófagos para limpar detritos celulares, placas e patógenos, desempenhando um papel fundamental na neuroinflamação.",
+      "categoria": "Neurociência/Imunologia",
+      "classificacao": "Célula",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Intermediário",
+      "referencia": {
+        "texto": "ScienceDirect - Microglia",
+        "url": "https://www.sciencedirect.com/topics/neuroscience/microglia"
+      }
+    },
+    {
+      "termo": "Receptor de Célula T",
+      "definicao": "Uma molécula de proteína encontrada na superfície das células T (linfócitos T) responsável por reconhecer e ligar-se a fragmentos de antígenos apresentados pelo MHC.",
+      "categoria": "Imunologia",
+      "classificacao": "Molécula",
+      "sigla": "TCR",
+      "frequencia_uso": "Intermediário",
+      "referencia": {
+        "texto": "British Society for Immunology - T Cell Receptors",
+        "url": "https://www.immunology.org/public-information/bitesized-immunology/cells/t-cell-receptors"
+      }
+    },
+    {
+      "termo": "Teste de Sensibilidade a Antimicrobianos",
+      "definicao": "Procedimento laboratorial que mede a capacidade de um antimicrobiano (antibiótico ou antifúngico) de inibir o crescimento de um microrganismo isolado, auxiliando na escolha do tratamento adequado.",
+      "categoria": "Microbiologia Clínica",
+      "classificacao": "Técnica Laboratorial",
+      "sigla": "TSA",
+      "frequencia_uso": "Intermediário",
+      "referencia": {
+        "texto": "Clinical and Laboratory Standards Institute - M100 Performance Standards",
+        "url": "https://clsi.org/standards/products/microbiology/documents/m100/"
+      }
+    },
+    {
+      "termo": "Potencial de Ação",
+      "definicao": "Breve e rápida mudança no potencial elétrico através da membrana de uma célula excitável (como neurônios e miócitos), usado para transmitir sinais rapidamente ao longo da célula.",
+      "categoria": "Neurofisiologia",
+      "classificacao": "Processo Fisiológico",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Básico",
+      "referencia": {
+        "texto": "Queensland Brain Institute - Action Potentials",
+        "url": "https://qbi.uq.edu.au/brain-basics/brain-body/action-potentials"
+      }
+    },
+    {
+      "termo": "Lipossoma",
+      "definicao": "Vesícula esférica artificial composta por uma bicamada lipídica, frequentemente utilizada como veículo nanotecnológico para encapsular e entregar medicamentos, genes ou outras substâncias a células específicas.",
+      "categoria": "Entrega de Medicamentos",
+      "classificacao": "Nanotecnologia",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Avançado",
+      "referencia": {
+        "texto": "NCBI - Liposomes in Drug Delivery",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3599026/"
+      }
+    },
+    {
+      "termo": "Endotélio",
+      "definicao": "Camada única de células epiteliais pavimentosas (células endoteliais) que reveste a superfície interna dos vasos sanguíneos, linfáticos e do coração, atuando como uma barreira semipermeável e regulando a função vascular.",
+      "categoria": "Histologia Vascular",
+      "classificacao": "Tecido",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Básico",
+      "referencia": {
+        "texto": "American Heart Association Journals - Endothelial Function",
+        "url": "https://www.ahajournals.org/doi/10.1161/01.atv.0000108375.41443.e8"
+      }
+    },
+    {
+      "termo": "Hormônio Liberador de Gonadotropina",
+      "definicao": "Um hormônio peptídico produzido e secretado pelos neurônios do hipotálamo, que estimula a hipófise a liberar gonadotropinas (LH e FSH).",
+      "categoria": "Endocrinologia",
+      "classificacao": "Molécula",
+      "sigla": "GnRH",
+      "frequencia_uso": "Intermediário",
+      "referencia": {
+        "texto": "NCBI Bookshelf - Physiology of GnRH",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK557762/"
+      }
+    },
+    {
+      "termo": "Índice de Massa Corporal",
+      "definicao": "Medida internacional utilizada para calcular se uma pessoa está com peso ideal, sobrepeso ou obesidade, baseada na divisão do peso do indivíduo (em quilogramas) pela altura ao quadrado (em metros).",
+      "categoria": "Saúde Pública",
+      "classificacao": "Medida Antropométrica",
+      "sigla": "IMC",
+      "frequencia_uso": "Básico",
+      "referencia": {
+        "texto": "Centers for Disease Control and Prevention - About BMI",
+        "url": "https://www.cdc.gov/healthyweight/assessing/bmi/index.html"
+      }
+    },
+    {
+      "termo": "Duração Média da Doença",
+      "definicao": "O tempo médio decorrido desde o início da doença (ou diagnóstico) até a cura, remissão ou óbito, uma métrica importante em estudos de prognóstico.",
+      "categoria": "Epidemiologia",
+      "classificacao": "Métrica Estatística",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Intermediário",
+      "referencia": {
+        "texto": "ScienceDirect Topics - Disease Duration",
+        "url": "https://www.sciencedirect.com/topics/medicine-and-dentistry/disease-duration"
+      }
+    },
+    {
+      "termo": "Metanefro",
+      "definicao": "O rim definitivo dos mamíferos, que se desenvolve a partir da terceira e última fase do desenvolvimento embrionário do sistema urinário.",
+      "categoria": "Embriologia",
+      "classificacao": "Estrutura Anatômica",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Avançado",
+      "referencia": {
+        "texto": "UNSW Embryology - Metanephros",
+        "url": "https://embryology.med.unsw.edu.au/embryology/index.php/Metanephros"
+      }
+    },
+    {
+      "termo": "Transfecção",
+      "definicao": "O processo de introduzir ácido nucleico (DNA ou RNA) em células eucarióticas, geralmente utilizando métodos não virais (como agentes químicos ou eletroporação), com o objetivo de alterar a expressão gênica.",
+      "categoria": "Biologia Molecular",
+      "classificacao": "Técnica Laboratorial",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Intermediário",
+      "referencia": {
+        "texto": "Thermo Fisher Scientific - Transfection Basics",
+        "url": "https://www.thermofisher.com/us/en/home/references/protocols/nucleic-acid-purification-and-analysis/nucleic-acid-transfection-protocols/transfection-basics.html"
+      }
+    },
+    {
+      "termo": "Célula de Reed-Sternberg",
+      "definicao": "Células gigantes e binucleadas (ou multinucleadas) características do Linfoma de Hodgkin clássico, derivadas de linfócitos B, que possuem nucléolos proeminentes (em 'olho de coruja').",
+      "categoria": "Hematopatologia",
+      "classificacao": "Célula Patológica",
+      "sigla": "CRS",
+      "frequencia_uso": "Avançado",
+      "referencia": {
+        "texto": "Pathology Outlines - Reed-Sternberg Cells",
+        "url": "https://www.pathologyoutlines.com/topic/lymphnodesreedsternbergcells.html"
+      }
+    },
+    {
+      "termo": "Vesículas Sinápticas",
+      "definicao": "Pequenas vesículas membranosas localizadas no terminal pré-sináptico de um neurônio, que armazenam e liberam neurotransmissores na fenda sináptica mediante a chegada de um potencial de ação.",
+      "categoria": "Neurobiologia",
+      "classificacao": "Estrutura Subcelular",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Intermediário",
+      "referencia": {
+        "texto": "Queensland Brain Institute - Synaptic Vesicles",
+        "url": "https://qbi.uq.edu.au/brain-basics/brain-body/synaptic-vesicles"
+      }
+    },
+    {
+      "termo": "Teste Rápido (Point-of-Care Testing)",
+      "definicao": "Testes diagnósticos realizados no local de atendimento ao paciente (consultório, leito, farmácia), em contraste com os testes enviados a um laboratório central, oferecendo resultados rápidos que guiam decisões clínicas imediatas.",
+      "categoria": "Diagnóstico Laboratorial",
+      "classificacao": "Técnica Laboratorial",
+      "sigla": "POCT",
+      "frequencia_uso": "Básico",
+      "referencia": {
+        "texto": "FDA - Point-of-Care Testing",
+        "url": "https://www.fda.gov/medical-devices/vitro-diagnostics/point-care-testing"
+      }
+    },
+    {
+      "termo": "Genoma Viral",
+      "definicao": "O material genético completo (DNA ou RNA, de fita simples ou dupla) contido em uma partícula viral (vírion), que codifica todas as proteínas necessárias para a replicação e a estrutura do vírus.",
+      "categoria": "Virologia",
+      "classificacao": "Molécula",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Básico",
+      "referencia": {
+        "texto": "NCBI Bookshelf - Structure of Viral Genomes",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK21523/"
+      }
     }
   ]
 }
