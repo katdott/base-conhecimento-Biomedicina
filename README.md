@@ -56,11 +56,11 @@ Como este é um projeto de front-end puro, não há necessidade de um servidor c
 
 1.  **Clone o repositório:**
     ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
+    git clone https://github.com/katdott/base-conhecimento-Biomedicina.git
     ```
 2.  **Navegue até o diretório do projeto:**
     ```bash
-    cd seu-repositorio
+    cd base-conhecimento-Biomedicina
     ```
 3.  **Abra o arquivo `index.html`** no seu navegador de preferência.
 
