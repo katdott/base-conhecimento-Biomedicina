@@ -156,12 +156,17 @@ div input:focus {
 }
 
 main {
+.card-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+    gap: 1.5rem;
     max-width: 80rem;
     /* Largura máxima do conteúdo principal */
     margin: 0 auto;
     /* Centraliza o conteúdo principal horizontalmente */
     margin-top: 2rem;
     /* Margem no topo */
+    padding: 0 1rem;
     flex-grow: 1;
     /* Faz o main crescer para ocupar o espaço disponível, empurrando o footer para baixo */
 }
@@ -185,6 +190,14 @@ article {
     /* Borda inferior */
     padding-bottom: 1.5rem;
     /* Espaçamento interno inferior */
+    background: #292a2d;
+    border: 1px solid #3c4043;
+    border-radius: 0.75rem;
+    padding: 1.5rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    display: flex;
+    flex-direction: column;
 }
 
 article:hover {
@@ -192,6 +205,9 @@ article:hover {
     /* Aumenta ligeiramente o tamanho ao passar o mouse */
     cursor: pointer;
     /* Muda o cursor para uma mão */
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px rgba(107, 187, 164, 0.2);
+    cursor: default;
 }
 
 article h2 {
@@ -293,6 +309,43 @@ article a:hover {
     /* Muda a cor do link ao passar o mouse */
 }
 
+.paginacao-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 2rem 0;
+}
+
+.paginacao-container button {
+    background-color: transparent;
+    color: var(--secondary-color);
+    border: 1px solid var(--tertiary-color);
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    font-family: inherit;
+    font-size: 1rem;
+    transition: background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease;
+}
+
+.paginacao-container button:hover {
+    background-color: var(--primary-color);
+    color: var(--bg-color);
+    border-color: var(--primary-color);
+}
+
+.paginacao-container button.active {
+    background-color: var(--primary-color);
+    color: var(--bg-color);
+    border-color: var(--primary-color);
+    font-weight: bold;
+}
+
+.paginacao-container button:active {
+    transform: scale(0.95);
+}
+
 @media (max-width: 768px) {
     header {
         /* Estilos para telas com largura máxima de 768px */
@@ -380,4 +433,79 @@ article a:hover {
         margin-top: 1rem;
         /* Adiciona margem no topo */
     }
+}
+
+/* Estilos do Menu Suspenso de Categorias */
+.dropdown-container {
+    position: relative;
+    display: inline-block;
+    margin: 1rem auto;
+    /* Centraliza o container */
+    display: flex;
+    justify-content: center;
+}
+
+.dropdown-toggle {
+    padding: 0.5rem 1rem;
+    border-radius: 1rem;
+    border: 1px solid var(--tertiary-color);
+    background-color: transparent;
+    color: var(--secondary-color);
+    cursor: pointer;
+    font-family: "Special Gothic", sans-serif;
+    font-size: 1rem;
+    transition: all 0.2s ease;
+    white-space: nowrap;
+    min-width: 200px;
+    /* Largura mínima para o botão */
+    text-align: center;
+}
+
+.dropdown-toggle:hover {
+    background-color: var(--primary-color);
+    color: var(--bg-color);
+    border-color: var(--primary-color);
+}
+
+.dropdown-toggle span {
+    margin-left: 0.5rem;
+    font-size: 0.8em;
+}
+
+.dropdown-menu {
+    display: none;
+    /* Oculto por padrão */
+    position: absolute;
+    background-color: var(--bg-color);
+    border: 1px solid #3c4043;
+    border-radius: 0.5rem;
+    min-width: 200px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+    margin-top: 0.5rem;
+    max-height: 300px;
+    overflow-y: auto;
+}
+
+.dropdown-container:hover .dropdown-menu {
+    display: block;
+    /* Exibe ao passar o mouse no container */
+}
+
+.dropdown-menu a {
+    color: var(--secondary-color);
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    transition: background-color 0.2s ease;
+}
+
+.dropdown-menu a:hover {
+    background-color: #3c4043;
+}
+
+.dropdown-menu a.active {
+    background-color: var(--primary-color);
+    color: var(--bg-color);
+    font-weight: bold;
 }

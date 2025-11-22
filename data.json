@@ -71,6 +71,906 @@
         "texto": "NCBI - Antígeno",
         "url": "https://www.ncbi.nlm.nih.gov/books/NBK27158/"
       }
+    },
+    {
+      "termo": "Citocinas",
+      "definicao": "Moléculas proteicas que atuam como mensageiros na comunicação intercelular, cruciais na regulação da resposta imune e inflamação.",
+      "categoria": "Imunologia",
+      "classificacao": "Molécula",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Básico",
+      "referencia": {
+        "texto": "Nature Immunology - Cytokines",
+        "url": "https://www.nature.com/subjects/cytokines"
+      }
+    },
+    {
+      "termo": "Apoptose",
+      "definicao": "Mecanismo de morte celular programada, essencial para o desenvolvimento, manutenção e eliminação de células danificadas ou indesejadas, ocorrendo de forma ordenada sem induzir inflamação.",
+      "categoria": "Biologia Celular",
+      "classificacao": "Processo Fisiológico",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Básico",
+      "referencia": {
+        "texto": "National Institutes of Health (NIH) - Apoptosis",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK6265/"
+      }
+    },
+    {
+      "termo": "Eletroforese em Gel",
+      "definicao": "Técnica laboratorial usada para separar moléculas (como DNA, RNA ou proteínas) com base no seu tamanho e carga elétrica, migrando através de uma matriz de gel sob um campo elétrico.",
+      "categoria": "Biologia Molecular",
+      "classificacao": "Técnica Laboratorial",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Intermediário",
+      "referencia": {
+        "texto": "Thermo Fisher Scientific - Gel Electrophoresis Basics",
+        "url": "https://www.thermofisher.com/br/en/home/life-science/protein-biology/protein-gel-electrophoresis/gel-electrophoresis-basics.html"
+      }
+    },
+    {
+      "termo": "Neutrófilo",
+      "definicao": "O tipo mais abundante de leucócito (glóbulo branco) no sangue, caracterizado por um núcleo multilobulado e função primária na fagocitose de microrganismos bacterianos.",
+      "categoria": "Hematologia",
+      "classificacao": "Célula",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Básico",
+      "referencia": {
+        "texto": "Sociedade Brasileira de Hematologia e Hemoterapia",
+        "url": "https://www.rbhh.org/details/264/pt-BR"
+      }
+    },
+    {
+      "termo": "Bacteriófago",
+      "definicao": "Um tipo de vírus que infecta bactérias. São amplamente estudados em microbiologia e biotecnologia como vetores e potenciais agentes terapêuticos (terapia fágica).",
+      "categoria": "Microbiologia",
+      "classificacao": "Organismo (Vírus)",
+      "sigla": "Fago",
+      "frequencia_uso": "Intermediário",
+      "referencia": {
+        "texto": "Centers for Disease Control and Prevention (CDC) - Bacteriophage",
+        "url": "https://www.cdc.gov/drugresistance/pdfs/bacteriophage-therapy-508.pdf"
+      }
+    },
+    {
+      "termo": "Epítopo",
+      "definicao": "A porção de um antígeno que é especificamente reconhecida e ligada pelos receptores dos linfócitos ou pelos anticorpos.",
+      "categoria": "Imunologia",
+      "classificacao": "Molécula",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Intermediário",
+      "referencia": {
+        "texto": "Immunology - Janeway's",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK27156/"
+      }
+    },
+    {
+      "termo": "Trombócito",
+      "definicao": "Fragmentos celulares anucleados derivados de megacariócitos, essenciais para a hemostasia e a formação de coágulos sanguíneos (plaquetas).",
+      "categoria": "Hematologia",
+      "classificacao": "Célula",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Básico",
+      "referencia": {
+        "texto": "Cleveland Clinic - Platelets",
+        "url": "https://my.clevelandclinic.org/health/body/21798-platelets"
+      }
+    },
+    {
+      "termo": "Nefrotoxicidade",
+      "definicao": "A propriedade de certas substâncias químicas ou drogas serem tóxicas para os rins, causando danos na função renal.",
+      "categoria": "Toxicologia",
+      "classificacao": "Fenômeno Clínico",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Avançado",
+      "referencia": {
+        "texto": "Journal of Nephrology - Nephrotoxicity Review",
+        "url": "https://link.springer.com/article/10.1007/s40620-019-00624-9"
+      }
+    },
+    {
+      "termo": "Autofagia",
+      "definicao": "Processo catabólico celular onde componentes danificados ou desnecessários são degradados e reciclados através da formação de autofagossomos, crucial para a sobrevivência celular sob estresse.",
+      "categoria": "Biologia Celular",
+      "classificacao": "Processo Fisiológico",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Avançado",
+      "referencia": {
+        "texto": "Cell Press - Autophagy",
+        "url": "https://www.cell.com/cell/autophagy"
+      }
+    },
+    {
+      "termo": "Western Blotting",
+      "definicao": "Técnica laboratorial analítica usada em biologia molecular e bioquímica para detectar proteínas específicas em uma amostra de tecido ou extrato celular complexo.",
+      "categoria": "Biologia Molecular",
+      "classificacao": "Técnica Laboratorial",
+      "sigla": "WB",
+      "frequencia_uso": "Avançado",
+      "referencia": {
+        "texto": "Methods in Enzymology - Western Blot",
+        "url": "https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/western-blot"
+      }
+    },
+    {
+      "termo": "Cromatografia Líquida de Alta Eficiência",
+      "definicao": "Técnica analítica de separação usada em bioquímica e química clínica para isolar, identificar e quantificar componentes de uma mistura complexa, utilizando alta pressão para acelerar a separação.",
+      "categoria": "Química Clínica",
+      "classificacao": "Técnica Laboratorial",
+      "sigla": "HPLC",
+      "frequencia_uso": "Avançado",
+      "referencia": {
+        "texto": "Analytical Chemistry Journal - HPLC Applications",
+        "url": "https://pubs.acs.org/journal/ancham"
+      }
+    },
+    {
+      "termo": "Linfócito T Helper",
+      "definicao": "Tipo de linfócito que desempenha um papel central na resposta imune, auxiliando outras células imunes, como linfócitos B e linfócitos T citotóxicos, através da liberação de citocinas.",
+      "categoria": "Imunologia",
+      "classificacao": "Célula",
+      "sigla": "LTh",
+      "frequencia_uso": "Intermediário",
+      "referencia": {
+        "texto": "Immunology Review - T Helper Cells",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3653198/"
+      }
+    },
+    {
+      "termo": "Mielograma",
+      "definicao": "Exame diagnóstico que envolve a coleta e análise microscópica de uma amostra da medula óssea para avaliar a produção e maturação de células sanguíneas.",
+      "categoria": "Hematologia",
+      "classificacao": "Exame Diagnóstico",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Avançado",
+      "referencia": {
+        "texto": "Mayo Clinic - Bone Marrow Biopsy and Aspiration",
+        "url": "https://www.mayoclinic.org/tests-procedures/bone-marrow-biopsy/about/pac-20393011"
+      }
+    },
+    {
+      "termo": "Histopatologia",
+      "definicao": "Ramo da patologia que estuda as alterações microscópicas nos tecidos causadas por doenças, geralmente através da análise de biópsias coradas.",
+      "categoria": "Patologia",
+      "classificacao": "Área de Estudo",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Intermediário",
+      "referencia": {
+        "texto": "Sociedade Brasileira de Patologia",
+        "url": "https://www.sbp.org.br/a-patologia/"
+      }
+    },
+    {
+      "termo": "Glicólise",
+      "definicao": "Via metabólica central que converte a glicose em piruvato, liberando energia na forma de ATP. É a primeira etapa do metabolismo energético.",
+      "categoria": "Bioquímica",
+      "classificacao": "Processo Fisiológico",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Básico",
+      "referencia": {
+        "texto": "Khan Academy - Glycolysis",
+        "url": "https://www.khanacademy.org/science/biology/cellular-respiration-and-fermentation/glycolysis/a/glycolysis-review"
+      }
+    },
+    {
+      "termo": "Virulência",
+      "definicao": "O grau de patogenicidade de um microrganismo, ou seja, a capacidade de causar doença em um hospedeiro.",
+      "categoria": "Microbiologia",
+      "classificacao": "Propriedade Biológica",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Intermediário",
+      "referencia": {
+        "texto": "Journal of Microbiology - Virulence Factors",
+        "url": "https://www.microbiologyresearch.org/content/journal/micro/10.1099/mic.0.03816-0"
+      }
+    },
+    {
+      "termo": "Anticorpo Monoclonal",
+      "definicao": "Anticorpos idênticos produzidos a partir de um único clone de plasmócitos, reconhecendo um único epítopo. Usados extensivamente em terapias e diagnóstico.",
+      "categoria": "Imunologia",
+      "classificacao": "Molécula",
+      "sigla": "mAb",
+      "frequencia_uso": "Intermediário",
+      "referencia": {
+        "texto": "FDA - Monoclonal Antibodies",
+        "url": "https://www.fda.gov/drugs/development-approval-process-drugs/antibody-drug-conjugates"
+      }
+    },
+    {
+      "termo": "Hibridização in situ por Fluorescência",
+      "definicao": "Técnica citogenética que utiliza sondas fluorescentes que se ligam especificamente a partes do cromossomo para detectar anomalias genéticas.",
+      "categoria": "Genética",
+      "classificacao": "Técnica Laboratorial",
+      "sigla": "FISH",
+      "frequencia_uso": "Avançado",
+      "referencia": {
+        "texto": "National Human Genome Research Institute - FISH",
+        "url": "https://www.genome.gov/genetics-glossary/Fluorescence-In-Situ-Hybridization"
+      }
+    },
+    {
+      "termo": "Macrófago",
+      "definicao": "Célula do sistema imune inato, derivada de monócitos, que realiza fagocitose de patógenos e detritos celulares, e atua como célula apresentadora de antígeno.",
+      "categoria": "Imunologia",
+      "classificacao": "Célula",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Básico",
+      "referencia": {
+        "texto": "Current Biology - Macrophage Function",
+        "url": "https://www.cell.com/current-biology/fulltext/S0960-9822(02)00971-6"
+      }
+    },
+    {
+      "termo": "Metabolômica",
+      "definicao": "O estudo científico em larga escala dos processos químicos envolvendo metabólitos, visando a identificação e quantificação do conjunto completo de pequenos metabólitos (metaboloma) em uma amostra biológica.",
+      "categoria": "Bioquímica",
+      "classificacao": "Área de Estudo",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Avançado",
+      "referencia": {
+        "texto": "The Metabolomics Society",
+        "url": "https://metabolomicssociety.org/"
+      }
+    },
+    {
+      "termo": "Cascata de Coagulação",
+      "definicao": "Série complexa e sequencial de reações enzimáticas que culminam na formação de fibrina, essencial para a interrupção de hemorragias (hemostasia secundária).",
+      "categoria": "Fisiologia",
+      "classificacao": "Processo Fisiológico",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Básico",
+      "referencia": {
+        "texto": "American Society of Hematology - Coagulation",
+        "url": "https://www.hematology.org/education/patients/blood-clots/coagulation-cascade"
+      }
+    },
+    {
+      "termo": "Cariótipo",
+      "definicao": "A coleção completa de cromossomos de um indivíduo, organizados em pares e ordenados por tamanho e morfologia, usado para identificar anomalias cromossômicas.",
+      "categoria": "Genética",
+      "classificacao": "Estrutura",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Intermediário",
+      "referencia": {
+        "texto": "Genetics Home Reference - Karyotype",
+        "url": "https://medlineplus.gov/genetics/understanding/testing/karyotype/"
+      }
+    },
+    {
+      "termo": "Imunofluorescência",
+      "definicao": "Técnica laboratorial que utiliza anticorpos ligados a fluoróforos para visualizar e identificar moléculas específicas (antígenos) dentro de células ou tecidos sob um microscópio de fluorescência.",
+      "categoria": "Imunologia",
+      "classificacao": "Técnica Laboratorial",
+      "sigla": "IF",
+      "frequencia_uso": "Intermediário",
+      "referencia": {
+        "texto": "Abcam - Immunofluorescence Guide",
+        "url": "https://www.abcam.com/protocols/immunofluorescence-if-protocol"
+      }
+    },
+    {
+      "termo": "Cultivo Celular",
+      "definicao": "Processo de manter e expandir células vivas, retiradas de um organismo, em condições controladas de laboratório, fora de seu ambiente natural.",
+      "categoria": "Biotecnologia",
+      "classificacao": "Técnica Laboratorial",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Intermediário",
+      "referencia": {
+        "texto": "Sigma-Aldrich - Cell Culture Basics",
+        "url": "https://www.sigmaaldrich.com/BR/pt/life-science/cell-culture/learning-center/cell-culture-basics"
+      }
+    },
+    {
+      "termo": "Receptor Acoplado à Proteína G",
+      "definicao": "Uma vasta família de proteínas receptoras transmembrana que detectam moléculas fora da célula e iniciam cascatas de sinalização intracelular através da ativação de proteínas G heterotriméricas.",
+      "categoria": "Sinalização Celular",
+      "classificacao": "Molécula",
+      "sigla": "GPCR",
+      "frequencia_uso": "Avançado",
+      "referencia": {
+        "texto": "Science Signaling - GPCR",
+        "url": "https://www.science.org/topic/g-protein-coupled-receptor"
+      }
+    },
+    {
+      "termo": "Citometria de Fluxo",
+      "definicao": "Técnica laboratorial que permite a análise multiparamétrica (tamanho, complexidade interna e expressão de marcadores moleculares) de células ou partículas em suspensão, à medida que passam individualmente através de um feixe de laser.",
+      "categoria": "Imunologia",
+      "classificacao": "Técnica Laboratorial",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Avançado",
+      "referencia": {
+        "texto": "Nature Protocols - Flow Cytometry",
+        "url": "https://www.nature.com/collections/fcaigebifd"
+      }
+    },
+    {
+      "termo": "Sistema Complemento",
+      "definicao": "Conjunto de proteínas plasmáticas (C1 a C9) que atuam em cascata para destruir patógenos, recrutando células imunes e mediando a inflamação, fazendo parte da imunidade inata.",
+      "categoria": "Imunologia",
+      "classificacao": "Processo Fisiológico",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Intermediário",
+      "referencia": {
+        "texto": "Journal of Immunology Research - Complement System",
+        "url": "https://www.hindawi.com/journals/jir/si/431268/"
+      }
+    },
+    {
+      "termo": "Éxons",
+      "definicao": "Segmentos de um gene que codificam proteínas. Eles são separados por íntrons e, após o splicing do RNA, são unidos para formar o mRNA maduro.",
+      "categoria": "Genética Molecular",
+      "classificacao": "Molécula",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Básico",
+      "referencia": {
+        "texto": "NIH National Human Genome Research Institute - Exon",
+        "url": "https://www.genome.gov/genetics-glossary/Exon"
+      }
+    },
+    {
+      "termo": "Splicing de RNA",
+      "definicao": "Processo pós-transcricional no qual íntrons são removidos do pré-mRNA e os éxons são ligados para formar uma molécula de mRNA maduro que pode ser traduzida em proteína.",
+      "categoria": "Genética Molecular",
+      "classificacao": "Processo Fisiológico",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Intermediário",
+      "referencia": {
+        "texto": "Cold Spring Harbor Perspectives in Biology - Splicing",
+        "url": "https://cshperspectives.cshlp.org/content/4/5/a000375.full"
+      }
+    },
+    {
+      "termo": "Major Histocompatibility Complex",
+      "definicao": "Grupo de genes que codificam proteínas de superfície celular essenciais para a apresentação de antígenos aos linfócitos T, sendo cruciais no reconhecimento imunológico do próprio e do não-próprio.",
+      "categoria": "Imunologia",
+      "classificacao": "Molécula",
+      "sigla": "MHC",
+      "frequencia_uso": "Avançado",
+      "referencia": {
+        "texto": "Immunobiology: The Immune System in Health and Disease - MHC",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK27156/"
+      }
+    },
+    {
+      "termo": "Biofilme Microbiano",
+      "definicao": "Comunidade de microrganismos (bactérias ou fungos) aderida a uma superfície biótica ou abiótica e envolta em uma matriz extracelular autoproduzida, conferindo resistência a antibióticos.",
+      "categoria": "Microbiologia",
+      "classificacao": "Estrutura Biológica",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Intermediário",
+      "referencia": {
+        "texto": "CDC - Biofilms",
+        "url": "https://www.cdc.gov/infectioncontrol/guidelines/disinfection/glossary.html#B"
+      }
+    },
+    {
+      "termo": "Plasmídeo",
+      "definicao": "Molécula de DNA circular e extracromossomal, geralmente encontrada em bactérias, que pode replicar-se independentemente do DNA cromossômico e frequentemente carrega genes de resistência a antibióticos.",
+      "categoria": "Microbiologia/Genética",
+      "classificacao": "Molécula",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Básico",
+      "referencia": {
+        "texto": "Microbiology Society - Plasmids",
+        "url": "https://microbiologysociety.org/why-microbiology-matters/what-is-microbiology/plasmids.html"
+      }
+    },
+    {
+      "termo": "Sequenciamento de Nova Geração",
+      "definicao": "Termo guarda-chuva para tecnologias de sequenciamento de DNA e RNA que permitem sequenciar milhões de fragmentos de ácido nucleico simultaneamente, a um custo e tempo muito inferiores aos métodos tradicionais.",
+      "categoria": "Genômica",
+      "classificacao": "Técnica Laboratorial",
+      "sigla": "NGS",
+      "frequencia_uso": "Avançado",
+      "referencia": {
+        "texto": "Illumina: Introduction to Next-Generation Sequencing",
+        "url": "https://www.illumina.com/science/technology/next-generation-sequencing.html"
+      }
+    },
+    {
+      "termo": "Farmacocinética",
+      "definicao": "Ramo da farmacologia que estuda como o corpo lida com o medicamento, abrangendo os processos de Absorção, Distribuição, Metabolismo e Excreção (ADME) de uma substância.",
+      "categoria": "Farmacologia",
+      "classificacao": "Processo Fisiológico",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Intermediário",
+      "referencia": {
+        "texto": "Merck Manual - Pharmacokinetics",
+        "url": "https://www.merckmanuals.com/professional/clinical-pharmacology/pharmacokinetics/overview-of-pharmacokinetics"
+      }
+    },
+    {
+      "termo": "Eritropoiese",
+      "definicao": "Processo de produção de eritrócitos (glóbulos vermelhos) na medula óssea, regulado principalmente pelo hormônio eritropoietina em resposta à hipóxia.",
+      "categoria": "Hematologia",
+      "classificacao": "Processo Fisiológico",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Intermediário",
+      "referencia": {
+        "texto": "Blood Journal - Erythropoiesis",
+        "url": "https://ashpublications.org/blood/article/118/4/890/25553/Erythropoiesis-New-insights-into-molecular"
+      }
+    },
+    {
+      "termo": "Célula Dendrítica",
+      "definicao": "Célula apresentadora de antígeno profissional, fundamental na iniciação das respostas imunes adaptativas, pois captura e processa antígenos para apresentá-los aos linfócitos T.",
+      "categoria": "Imunologia",
+      "classificacao": "Célula",
+      "sigla": "DC",
+      "frequencia_uso": "Avançado",
+      "referencia": {
+        "texto": "Journal of Experimental Medicine - Dendritic Cells",
+        "url": "https://rupress.org/jem/article/190/7/883/40066/Dendritic-cells"
+      }
+    },
+    {
+      "termo": "Endotoxina",
+      "definicao": "Lipopolissacarídeo (LPS) presente na membrana externa de bactérias Gram-negativas. É liberado quando a célula bacteriana é lisada e pode causar febre, choque e coagulação intravascular disseminada.",
+      "categoria": "Microbiologia",
+      "classificacao": "Molécula",
+      "sigla": "LPS",
+      "frequencia_uso": "Intermediário",
+      "referencia": {
+        "texto": "ScienceDirect - Endotoxins",
+        "url": "https://www.sciencedirect.com/topics/medicine-and-dentistry/endotoxin"
+      }
+    },
+    {
+      "termo": "Tolerância Imunológica",
+      "definicao": "Estado de não-resposta específica do sistema imunológico a um antígeno (tolerógeno), essencial para evitar ataques autoimunes contra os próprios componentes do corpo.",
+      "categoria": "Imunologia",
+      "classificacao": "Processo Fisiológico",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Intermediário",
+      "referencia": {
+        "texto": "Trends in Immunology - Immune Tolerance",
+        "url": "https://www.cell.com/trends/immunology/fulltext/S1471-4906(03)00249-1"
+      }
+    },
+    {
+      "termo": "Retículo Endoplasmático Rugoso",
+      "definicao": "Rede de membranas interconectadas na célula, coberta por ribossomos, responsável principalmente pela síntese e dobramento de proteínas secretadas ou destinadas a organelas.",
+      "categoria": "Biologia Celular",
+      "classificacao": "Organela",
+      "sigla": "RER",
+      "frequencia_uso": "Básico",
+      "referencia": {
+        "texto": "Molecular Biology of the Cell - ER",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK21040/"
+      }
+    },
+    {
+      "termo": "Espectrometria de Massa",
+      "definicao": "Técnica analítica que mede a razão massa/carga de íons. É usada para identificar compostos desconhecidos, determinar a composição isotópica de moléculas e elucidar a estrutura de compostos químicos.",
+      "categoria": "Química Clínica/Proteômica",
+      "classificacao": "Técnica Laboratorial",
+      "sigla": "MS",
+      "frequencia_uso": "Avançado",
+      "referencia": {
+        "texto": "ACS Mass Spectrometry",
+        "url": "https://pubs.acs.org/journal/jmasfg"
+      }
+    },
+    {
+      "termo": "Southern Blotting",
+      "definicao": "Técnica laboratorial utilizada para detectar sequências específicas de DNA em uma amostra. Envolve a separação do DNA por eletroforese, transferência para uma membrana e hibridização com uma sonda marcada.",
+      "categoria": "Biologia Molecular",
+      "classificacao": "Técnica Laboratorial",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Intermediário",
+      "referencia": {
+        "texto": "Nature Protocols - Southern Blotting",
+        "url": "https://www.nature.com/articles/nprot.2016.143"
+      }
+    },
+    {
+      "termo": "Transdução de Sinal",
+      "definicao": "Processo pelo qual um sinal químico ou físico externo à célula é convertido em uma resposta específica dentro da célula, geralmente por meio de vias de sinalização envolvendo segundos mensageiros e quinases.",
+      "categoria": "Biologia Celular",
+      "classificacao": "Processo Fisiológico",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Intermediário",
+      "referencia": {
+        "texto": "ScienceDirect - Signal Transduction",
+        "url": "https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/signal-transduction"
+      }
+    },
+    {
+      "termo": "Isquemia",
+      "definicao": "Restrição do suprimento sanguíneo a um tecido ou órgão, causando deficiência de oxigênio (hipóxia) e nutrientes, o que pode levar à lesão celular e necrose.",
+      "categoria": "Patologia",
+      "classificacao": "Processo Fisiológico",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Básico",
+      "referencia": {
+        "texto": "Cleveland Clinic - Ischemia",
+        "url": "https://my.clevelandclinic.org/health/diseases/21966-ischemia"
+      }
+    },
+    {
+      "termo": "Neoplasia",
+      "definicao": "Crescimento anormal e descontrolado de células, que persiste após a cessação dos estímulos que causaram a alteração. Pode ser classificada como benigna ou maligna (câncer).",
+      "categoria": "Patologia",
+      "classificacao": "Condição Clínica",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Intermediário",
+      "referencia": {
+        "texto": "National Cancer Institute - Neoplasia",
+        "url": "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/neoplasm"
+      }
+    },
+    {
+      "termo": "Débito Cardíaco",
+      "definicao": "Volume de sangue bombeado pelo coração (por ventrículo) em um minuto. É calculado multiplicando a frequência cardíaca pelo volume sistólico.",
+      "categoria": "Fisiologia",
+      "classificacao": "Processo Fisiológico",
+      "sigla": "DC",
+      "frequencia_uso": "Básico",
+      "referencia": {
+        "texto": "American Heart Association - Cardiac Output",
+        "url": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000000958"
+      }
+    },
+    {
+      "termo": "Fibrinólise",
+      "definicao": "Processo fisiológico que dissolve coágulos sanguíneos (trombos) após o reparo vascular, envolvendo a conversão do plasminogênio em plasmina, que cliva a fibrina.",
+      "categoria": "Hematologia",
+      "classificacao": "Processo Fisiológico",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Intermediário",
+      "referencia": {
+        "texto": "Thrombosis Research - Fibrinolysis",
+        "url": "https://www.thrombosisresearch.com/article/S0049-3848(12)00468-2/fulltext"
+      }
+    },
+    {
+      "termo": "Peroxissomo",
+      "definicao": "Organela envolvida no metabolismo de ácidos graxos de cadeia muito longa e na desintoxicação, contendo enzimas oxidativas como a catalase e a peroxidase.",
+      "categoria": "Biologia Celular",
+      "classificacao": "Organela",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Intermediário",
+      "referencia": {
+        "texto": "Journal of Cell Biology - Peroxisome",
+        "url": "https://rupress.org/jcb/article/203/6/875/41926/The-peroxisome"
+      }
+    },
+    {
+      "termo": "CRISPR-Cas9",
+      "definicao": "Técnica de edição gênica que utiliza uma sequência guia de RNA e a enzima Cas9 para cortar e modificar o DNA em locais específicos do genoma com alta precisão.",
+      "categoria": "Edição Gênica",
+      "classificacao": "Técnica Laboratorial",
+      "sigla": "CRISPR",
+      "frequencia_uso": "Avançado",
+      "referencia": {
+        "texto": "Broad Institute - Understanding CRISPR-Cas9",
+        "url": "https://www.broadinstitute.org/what-is-crispr"
+      }
+    },
+    {
+      "termo": "Microarranjo de DNA",
+      "definicao": "Placa de vidro ou chip de silício que contém milhares de 'spots' microscópicos de DNA de fita simples (probes), usada para medir a expressão de milhares de genes simultaneamente em uma amostra biológica.",
+      "categoria": "Genômica",
+      "classificacao": "Técnica Laboratorial",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Avançado",
+      "referencia": {
+        "texto": "Nature Education - DNA Microarrays",
+        "url": "https://www.nature.com/scitable/topicpage/dna-microarrays-explained-428/"
+      }
+    },
+    {
+      "termo": "Receptor de Tipo Toll",
+      "definicao": "Classe de proteínas receptoras transmembranares ou citoplasmáticas da imunidade inata que reconhecem Padrões Moleculares Associados a Patógenos (PAMPs), ativando vias de sinalização inflamatória.",
+      "categoria": "Imunologia",
+      "classificacao": "Molécula",
+      "sigla": "TLR",
+      "frequencia_uso": "Avançado",
+      "referencia": {
+        "texto": "Frontiers in Immunology - Toll-like Receptors",
+        "url": "https://www.frontiersin.org/articles/10.3389/fimmu.2021.722624/full"
+      }
+    },
+    {
+      "termo": "Polimorfismo de Nucleotídeo Único",
+      "definicao": "Variação de um único nucleotídeo que ocorre em uma posição específica no genoma, sendo comummente utilizado como marcador genético em estudos de associação de doenças.",
+      "categoria": "Genética Molecular",
+      "classificacao": "Marcador Genético",
+      "sigla": "SNP",
+      "frequencia_uso": "Avançado",
+      "referencia": {
+        "texto": "National Human Genome Research Institute - SNP",
+        "url": "https://www.genome.gov/about-genomics/fact-sheets/SNP"
+      }
+    },
+    {
+      "termo": "Estresse Oxidativo",
+      "definicao": "Desequilíbrio entre a produção de espécies reativas de oxigênio (EROs) e a capacidade do organismo de desintoxicar rapidamente esses intermediários reativos ou reparar o dano resultante.",
+      "categoria": "Fisiopatologia",
+      "classificacao": "Processo Bioquímico",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Intermediário",
+      "referencia": {
+        "texto": "Oxidative Stress in Health and Disease - Cell",
+        "url": "https://www.cell.com/cell/fulltext/S0092-8674(18)30870-1"
+      }
+    },
+    {
+      "termo": "Pressão Oncótica",
+      "definicao": "Forma de pressão osmótica exercida pelas proteínas plasmáticas, principalmente albumina, que tende a puxar a água de volta para a circulação, mantendo o volume sanguíneo.",
+      "categoria": "Fisiologia",
+      "classificacao": "Processo Físico-Químico",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Básico",
+      "referencia": {
+        "texto": "Encyclopedia Britannica - Oncotic Pressure",
+        "url": "https://www.britannica.com/science/oncotic-pressure"
+      }
+    },
+    {
+      "termo": "Célula Natural Killer",
+      "definicao": "Tipo de linfócito que faz parte do sistema imune inato, especializado em destruir células infectadas por vírus e células tumorais sem a necessidade de prévia ativação.",
+      "categoria": "Imunologia",
+      "classificacao": "Célula",
+      "sigla": "NK",
+      "frequencia_uso": "Intermediário",
+      "referencia": {
+        "texto": "Nature Immunology - Natural Killer Cells",
+        "url": "https://www.nature.com/subjects/natural-killer-cells"
+      }
+    },
+    {
+      "termo": "Eletroforese em Duas Dimensões",
+      "definicao": "Técnica laboratorial de proteômica que separa proteínas com base em duas propriedades: ponto isoelétrico (primeira dimensão) e massa molecular (segunda dimensão).",
+      "categoria": "Proteômica",
+      "classificacao": "Técnica Laboratorial",
+      "sigla": "2DE",
+      "frequencia_uso": "Avançado",
+      "referencia": {
+        "texto": "Thermo Fisher Scientific - 2D Electrophoresis",
+        "url": "https://www.thermofisher.com/br/en/home/life-science/protein-biology/protein-purification-analysis/protein-gel-electrophoresis/2d-electrophoresis.html"
+      }
+    },
+    {
+      "termo": "Eixo Hipotálamo-Hipófise-Adrenal",
+      "definicao": "Sistema complexo de interação entre o sistema nervoso central e o sistema endócrino, crucial na regulação da resposta ao estresse, humor, metabolismo e imunidade.",
+      "categoria": "Endocrinologia",
+      "classificacao": "Sistema Fisiológico",
+      "sigla": "HHA",
+      "frequencia_uso": "Intermediário",
+      "referencia": {
+        "texto": "Endocrinology and Metabolism Clinics of North America - HPA Axis",
+        "url": "https://www.sciencedirect.com/topics/neuroscience/hypothalamic-pituitary-adrenal-axis"
+      }
+    },
+    {
+      "termo": "Coloração de Gram",
+      "definicao": "Método de coloração diferencial fundamental em microbiologia para classificar bactérias em Gram-positivas (roxas) ou Gram-negativas (vermelhas), baseado nas propriedades da parede celular.",
+      "categoria": "Microbiologia Clínica",
+      "classificacao": "Técnica Laboratorial",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Básico",
+      "referencia": {
+        "texto": "Microbe Online - Gram Staining Procedure",
+        "url": "https://microbeonline.com/gram-staining-principle-procedure-results/"
+      }
+    },
+    {
+      "termo": "Ciclo de Krebs",
+      "definicao": "Também conhecido como Ciclo do Ácido Cítrico, é uma série de reações químicas que ocorre na matriz mitocondrial, central para o metabolismo energético, gerando precursores para a síntese de ATP.",
+      "categoria": "Bioquímica",
+      "classificacao": "Processo Metabólico",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Básico",
+      "referencia": {
+        "texto": "Khan Academy - Krebs Cycle",
+        "url": "https://pt.khanacademy.org/science/biology/cellular-respiration-and-fermentation/pyruvate-oxidation-and-the-citric-acid-cycle/a/the-citric-acid-cycle-krebs-cycle"
+      }
+    },
+    {
+      "termo": "Hemólise",
+      "definicao": "Ruptura da membrana plasmática das hemácias, resultando na liberação de hemoglobina para o plasma sanguíneo. Pode ocorrer in vivo (patológico) ou in vitro (artefato laboratorial).",
+      "categoria": "Hematologia",
+      "classificacao": "Processo Fisiopatológico",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Básico",
+      "referencia": {
+        "texto": "Journal of Clinical Pathology - Hemolysis",
+        "url": "https://jcp.bmj.com/content/62/11/985"
+      }
+    },
+    {
+      "termo": "Interleucina",
+      "definicao": "Grupo de citocinas secretadas principalmente por leucócitos que funcionam como mensageiros na comunicação intercelular, regulando o crescimento, diferenciação e ativação de células imunes.",
+      "categoria": "Imunologia Molecular",
+      "classificacao": "Molécula Sinalizadora",
+      "sigla": "IL",
+      "frequencia_uso": "Intermediário",
+      "referencia": {
+        "texto": "Immunology Letters - Interleukins",
+        "url": "https://www.sciencedirect.com/topics/medicine-and-dentistry/interleukin"
+      }
+    },
+    {
+      "termo": "Taxa de Filtração Glomerular",
+      "definicao": "Volume de fluido filtrado dos capilares glomerulares renais para a cápsula de Bowman por unidade de tempo, sendo o principal indicador da função renal.",
+      "categoria": "Nefrologia",
+      "classificacao": "Parâmetro Fisiológico",
+      "sigla": "TFG",
+      "frequencia_uso": "Intermediário",
+      "referencia": {
+        "texto": "Kidney International - Glomerular Filtration Rate",
+        "url": "https://www.kidney-international.org/"
+      }
+    },
+    {
+      "termo": "Aneuploidia",
+      "definicao": "Condição celular caracterizada pela presença de um número anormal de cromossomos, que não é múltiplo exato do número haploide (ex: trissomia ou monossomia).",
+      "categoria": "Genética",
+      "classificacao": "Anomalia Cromossômica",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Intermediário",
+      "referencia": {
+        "texto": "Nature Education - Aneuploidy",
+        "url": "https://www.nature.com/scitable/topicpage/aneuploidy-472/"
+      }
+    },
+    {
+      "termo": "Complexo de Golgi",
+      "definicao": "Organelo celular responsável pela modificação, empacotamento e endereçamento de proteínas e lipídeos sintetizados no retículo endoplasmático, preparando-os para secreção ou entrega a outros organelos.",
+      "categoria": "Biologia Celular",
+      "classificacao": "Organelo",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Básico",
+      "referencia": {
+        "texto": "Molecular Biology of the Cell - Golgi Apparatus",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK26940/"
+      }
+    },
+    {
+      "termo": "Tropismo Viral",
+      "definicao": "A especificidade de um vírus em infectar certas células, tecidos ou espécies, determinada pela presença de receptores específicos na superfície celular hospedeira.",
+      "categoria": "Virologia",
+      "classificacao": "Propriedade Viral",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Intermediário",
+      "referencia": {
+        "texto": "Annual Review of Virology - Viral Tropism",
+        "url": "https://www.annualreviews.org/doi/abs/10.1146/annurev-virology-092917-025539"
+      }
+    },
+    {
+      "termo": "Peptidoglicano",
+      "definicao": "Polímero composto de açúcares e aminoácidos que forma uma camada essencial na parede celular bacteriana, conferindo resistência mecânica e determinando a classificação de Gram.",
+      "categoria": "Microbiologia",
+      "classificacao": "Estrutura Molecular",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Básico",
+      "referencia": {
+        "texto": "Current Biology - Peptidoglycan",
+        "url": "https://www.cell.com/current-biology/fulltext/S0960-9822(03)00473-X"
+      }
+    },
+    {
+      "termo": "Metástase",
+      "definicao": "Processo patológico de disseminação de células cancerosas de um tumor primário para outros locais do corpo, onde formam novos tumores secundários.",
+      "categoria": "Oncologia/Patologia",
+      "classificacao": "Processo Patológico",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Básico",
+      "referencia": {
+        "texto": "National Cancer Institute - Metastasis",
+        "url": "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/metastasis"
+      }
+    },
+    {
+      "termo": "Fosfatase Alcalina",
+      "definicao": "Enzima presente em diversos tecidos (fígado, ossos, placenta) cuja dosagem sérica é clinicamente importante para detectar doenças hepáticas ou ósseas, devido ao seu papel na remoção de grupos fosfato.",
+      "categoria": "Bioquímica Clínica",
+      "classificacao": "Enzima/Biomarcador",
+      "sigla": "FA",
+      "frequencia_uso": "Básico",
+      "referencia": {
+        "texto": "Clinical Chemistry - Alkaline Phosphatase",
+        "url": "https://academic.oup.com/clinchem/article/43/10/1801/5103623"
+      }
+    },
+    {
+      "termo": "Dose Letal Média",
+      "definicao": "Medida da toxicidade de uma substância, representando a dose necessária para matar 50% de uma população de teste em um período específico.",
+      "categoria": "Toxicologia",
+      "classificacao": "Parâmetro Toxicológico",
+      "sigla": "DL50",
+      "frequencia_uso": "Intermediário",
+      "referencia": {
+        "texto": "Organização Mundial da Saúde - LD50",
+        "url": "https://www.who.int/ipcs/publications/pesticides/jmpr/glossary.pdf"
+      }
+    },
+    {
+      "termo": "Gene Supressor de Tumor",
+      "definicao": "Gene cuja função é regular negativamente a divisão celular e prevenir o crescimento descontrolado. Mutações que inativam esses genes podem levar ao desenvolvimento de câncer.",
+      "categoria": "Genética do Câncer",
+      "classificacao": "Molécula/Gene",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Intermediário",
+      "referencia": {
+        "texto": "Cancer Cell - Tumor Suppressor Genes",
+        "url": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(03)00021-3"
+      }
+    },
+    {
+      "termo": "Titulação",
+      "definicao": "Técnica analítica de química laboratorial utilizada para determinar a concentração desconhecida de um analito em uma amostra (o titulado) por meio da adição gradual de um reagente de concentração conhecida (o titulante).",
+      "categoria": "Química Analítica",
+      "classificacao": "Técnica Laboratorial",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Básico",
+      "referencia": {
+        "texto": "Royal Society of Chemistry - Titration",
+        "url": "https://edu.rsc.org/resources/titration/2012.article"
+      }
+    },
+    {
+      "termo": "Resistência Multidroga",
+      "definicao": "Fenômeno em que microrganismos (bactérias, vírus, fungos ou parasitas) desenvolvem resistência a múltiplas classes de agentes antimicrobianos, complicando o tratamento de infecções.",
+      "categoria": "Microbiologia",
+      "classificacao": "Processo Biológico",
+      "sigla": "MDR",
+      "frequencia_uso": "Intermediário",
+      "referencia": {
+        "texto": "CDC - Multidrug Resistance",
+        "url": "https://www.cdc.gov/drugresistance/about.html"
+      }
+    },
+    {
+      "termo": "Proteína C Reativa",
+      "definicao": "Proteína de fase aguda, produzida pelo fígado e liberada na corrente sanguínea em resposta à inflamação. É um marcador inespecífico de infecção ou dano tecidual.",
+      "categoria": "Bioquímica Clínica",
+      "classificacao": "Biomarcador Inflamatório",
+      "sigla": "CRP",
+      "frequencia_uso": "Básico",
+      "referencia": {
+        "texto": "Circulation - C-Reactive Protein",
+        "url": "https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.106.634691"
+      }
+    },
+    {
+      "termo": "Imunoterapia Adotiva",
+      "definicao": "Estratégia terapêutica que envolve a transferência de células imunes (geralmente linfócitos T) com atividade antitumoral para um paciente, visando combater o câncer.",
+      "categoria": "Imunologia Clínica",
+      "classificacao": "Terapia",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Avançado",
+      "referencia": {
+        "texto": "Journal for Immunotherapy of Cancer - Adoptive Cell Therapy",
+        "url": "https://jitc.biomedcentral.com/articles/10.1186/s40425-021-00346-6"
+      }
+    },
+    {
+      "termo": "Microdissecção a Laser",
+      "definicao": "Técnica laboratorial que utiliza um laser focado sob um microscópio para isolar e coletar populações celulares específicas ou regiões de tecido heterogêneo de uma lâmina histológica.",
+      "categoria": "Patologia Molecular",
+      "classificacao": "Técnica Laboratorial",
+      "sigla": "LMD",
+      "frequencia_uso": "Avançado",
+      "referencia": {
+        "texto": "Methods in Molecular Biology - Laser Microdissection",
+        "url": "https://link.springer.com/protocol/10.1007/978-1-61779-792-2_1"
+      }
+    },
+    {
+      "termo": "Cílios e Flagelos",
+      "definicao": "Estruturas celulares complexas e móveis, baseadas em microtúbulos, que se projetam da superfície celular e são responsáveis pela locomoção da célula ou pelo movimento de fluidos sobre a superfície celular.",
+      "categoria": "Biologia Celular",
+      "classificacao": "Estrutura Celular",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Básico",
+      "referencia": {
+        "texto": "Nature Reviews Molecular Cell Biology - Cilia and Flagella",
+        "url": "https://www.nature.com/nrm/articles"
+      }
     }
   ]
 }
