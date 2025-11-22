@@ -155,41 +155,18 @@ div input:focus {
     /* Efeito de clique (diminui o tamanho) */
 }
 
-main {
 .card-container {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
     gap: 1.5rem;
     max-width: 80rem;
-    /* Largura máxima do conteúdo principal */
     margin: 0 auto;
-    /* Centraliza o conteúdo principal horizontalmente */
     margin-top: 2rem;
-    /* Margem no topo */
     padding: 0 1rem;
     flex-grow: 1;
-    /* Faz o main crescer para ocupar o espaço disponível, empurrando o footer para baixo */
 }
 
 article {
-    background: none;
-    /* Sem cor de fundo */
-    border-radius: 0;
-    /* Sem bordas arredondadas */
-    padding: 0;
-    /* Remove o padding */
-    padding: 0 1rem;
-    /* Espaçamento interno nos lados */
-    margin-bottom: 1.25rem;
-    /* Margem inferior */
-    box-shadow: none;
-    /* Sem sombra */
-    transition: background-color 0.3s ease, border-bottom-color 0.3s ease;
-    /* Transição suave */
-    border-bottom: 1px solid var(--bg-color);
-    /* Borda inferior */
-    padding-bottom: 1.5rem;
-    /* Espaçamento interno inferior */
     background: #292a2d;
     border: 1px solid #3c4043;
     border-radius: 0.75rem;
@@ -201,10 +178,6 @@ article {
 }
 
 article:hover {
-    transform: scale(1.01);
-    /* Aumenta ligeiramente o tamanho ao passar o mouse */
-    cursor: pointer;
-    /* Muda o cursor para uma mão */
     transform: translateY(-5px);
     box-shadow: 0 8px 16px rgba(107, 187, 164, 0.2);
     cursor: default;
@@ -218,9 +191,6 @@ article h2 {
     font-size: 1.6rem;
     /* Tamanho da fonte */
     border-bottom: none;
-    /* Sem borda inferior */
-    padding-bottom: 0;
-    /* Sem espaçamento interno inferior */
     margin-bottom: 0.25rem;
     /* Margem inferior */
     color: var(--primary-color);
@@ -371,12 +341,6 @@ article a:hover {
         /* Reduz o tamanho da fonte */
     }
 
-    main {
-        /* Estilos para o main em telas menores */
-        padding: 0 1rem;
-        /* Adiciona espaçamento lateral */
-    }
-
     article:hover {
         /* Estilos para o article em telas menores */
         transform: none;
@@ -508,4 +472,144 @@ article a:hover {
     background-color: var(--primary-color);
     color: var(--bg-color);
     font-weight: bold;
+}
+
+/* --- Estilos do Modo Claro / Escuro --- */
+
+/* Variáveis para o modo claro */
+body.light-mode {
+    --primary-color: #007bff;
+    /* Um azul para contraste */
+    --secondary-color: #212529;
+    /* Texto escuro */
+    --tertiary-color: #6c757d;
+    /* Texto cinza */
+    --bg-color: #f8f9fa;
+    /* Fundo claro */
+}
+
+/* Ajustes específicos para o modo claro */
+body.light-mode {
+    background-image: linear-gradient(rgba(248, 249, 250, 0.9), rgba(248, 249, 250, 0.9)), url('./src/img/bg_biomed.png');
+}
+
+body.light-mode div input {
+    background: #fff;
+    border-color: #ced4da;
+}
+
+body.light-mode div input:focus {
+    border-color: #86b7fe;
+    box-shadow: 0 0 0 0.1rem rgba(13, 110, 253, 0.25);
+}
+
+body.light-mode article {
+    background: #ffffff;
+    border: 1px solid #dee2e6;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+}
+
+body.light-mode article:hover {
+    box-shadow: 0 8px 16px rgba(0, 123, 255, 0.1);
+}
+
+body.light-mode .dropdown-menu {
+    background-color: #f8f9fa;
+    border-color: #dee2e6;
+}
+
+body.light-mode .dropdown-menu a:hover {
+    background-color: #e9ecef;
+}
+
+/* Estilos para o Botão de Alternância de Tema */
+.theme-switch-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.theme-switch {
+    position: relative;
+    display: inline-block;
+    width: 60px;
+    height: 34px;
+}
+
+.theme-switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+
+.slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #4d4d4d;
+    transition: .4s;
+}
+
+.slider:before {
+    position: absolute;
+    content: "";
+    height: 26px;
+    width: 26px;
+    left: 4px;
+    bottom: 4px;
+    background-color: white;
+    transition: .4s;
+}
+
+input:checked+.slider {
+    background-color: var(--primary-color);
+}
+
+input:checked+.slider:before {
+    transform: translateX(26px);
+}
+
+.slider.round {
+    border-radius: 34px;
+}
+
+.slider.round:before {
+    border-radius: 50%;
+}
+
+/* Estilos para os ícones dentro do slider */
+.slider .icon {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    transition: opacity 0.4s ease;
+    pointer-events: none;
+    /* Impede que os ícones interfiram no clique */
+}
+
+.slider .sun-icon {
+    left: 7px;
+    opacity: 0;
+    /* Oculto por padrão */
+    color: #f8f9fa;
+    /* Cor do ícone de sol */
+}
+
+.slider .moon-icon {
+    right: 7px;
+    opacity: 1;
+    /* Visível por padrão */
+    color: #202124;
+    /* Cor do ícone de lua */
+}
+
+input:checked+.slider .sun-icon {
+    opacity: 1;
+}
+
+input:checked+.slider .moon-icon {
+    opacity: 0;
 }

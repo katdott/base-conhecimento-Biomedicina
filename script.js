@@ -1,4 +1,4 @@
-let cardContainer = document.querySelector(".card-container");
+let cardContainer = document.querySelector("main");
 let inputBusca = document.querySelector("div input");
 let dados = [];
 let termosAtuais = []; // Lista de termos a ser exibida (pode ser a completa ou a filtrada)
@@ -105,8 +105,10 @@ async function carregarDados() {
   try {
     let resposta = await fetch("data.json");
     dados = await resposta.json();
+    cardContainer.classList.add('card-container');
     termosAtuais = dados.termos;
     renderizarNavCategorias();
+    inicializarModoEscuro(); // Adiciona o toggle de tema
     exibirPagina(); // Exibe a primeira página dos termos inicialmente
   } catch (error) {
     console.error("Erro ao carregar os dados:", error);
@@ -121,12 +123,11 @@ function renderizarNavCategorias() {
   const dropdownContainer = document.createElement('div');
   dropdownContainer.classList.add('dropdown-container');
 
-  // Botão que aciona o dropdown
+
   const dropdownToggle = document.createElement('button');
   dropdownToggle.classList.add('dropdown-toggle');
-  dropdownToggle.innerHTML = 'Categorias <span>&#9662;</span>'; // Adiciona uma seta para baixo
+  dropdownToggle.innerHTML = 'Categorias <span>&#9662;</span>';
 
-  // Menu com os itens
   const dropdownMenu = document.createElement('div');
   dropdownMenu.classList.add('dropdown-menu');
 
@@ -144,13 +145,13 @@ function renderizarNavCategorias() {
     }
 
     itemMenu.addEventListener('click', (e) => {
-      e.preventDefault(); // Previne o comportamento padrão do link
+      e.preventDefault();
       categoriaSelecionada = itemMenu.dataset.categoria;
 
-      // Atualiza o texto do botão principal
+
       dropdownToggle.innerHTML = `${textoCategoria} <span>&#9662;</span>`;
 
-      // Atualiza a classe 'active' nos itens do menu
+
       document.querySelectorAll('.dropdown-menu a').forEach(link => link.classList.remove('active'));
       itemMenu.classList.add('active');
 
@@ -162,6 +163,48 @@ function renderizarNavCategorias() {
   dropdownContainer.appendChild(dropdownToggle);
   dropdownContainer.appendChild(dropdownMenu);
   header.insertAdjacentElement('afterend', dropdownContainer);
+}
+
+function inicializarModoEscuro() {
+  const header = document.querySelector('header');
+  if (!header) return;
+
+  const toggleContainer = document.createElement('div');
+  toggleContainer.classList.add('theme-switch-container');
+  toggleContainer.innerHTML = `
+      <label class="theme-switch" for="theme-checkbox">
+          <input type="checkbox" id="theme-checkbox" />
+          <div class="slider round">
+              <span class="icon sun-icon"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"></circle><line x1="12" y1="1" x2="12" y2="3"></line><line x1="12" y1="21" x2="12" y2="23"></line><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line><line x1="1" y1="12" x2="3" y2="12"></line><line x1="21" y1="12" x2="23" y2="12"></line><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line></svg></span>
+              <span class="icon moon-icon"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path></svg></span>
+          </div>
+      </label>
+  `;
+  header.appendChild(toggleContainer);
+
+  const themeCheckbox = document.getElementById('theme-checkbox');
+
+  // Função para aplicar o tema
+  const aplicarTema = (tema) => {
+    if (tema === 'light') {
+      document.body.classList.add('light-mode');
+      themeCheckbox.checked = true;
+    } else {
+      document.body.classList.remove('light-mode');
+      themeCheckbox.checked = false;
+    }
+  };
+
+  // Verifica o tema salvo no localStorage
+  const temaSalvo = localStorage.getItem('theme') || 'dark';
+  aplicarTema(temaSalvo);
+
+  // Adiciona o listener para a mudança
+  themeCheckbox.addEventListener('change', () => {
+    const novoTema = themeCheckbox.checked ? 'light' : 'dark';
+    localStorage.setItem('theme', novoTema);
+    aplicarTema(novoTema);
+  });
 }
 
 // Adiciona um listener para o input de busca
