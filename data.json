@@ -6,35 +6,23 @@
       "categoria": "Biologia Molecular",
       "classificacao": "Técnica Laboratorial",
       "sigla": "PCR (Polymerase Chain Reaction)",
-      "frequencia_uso": "Avançado",
-      "referencia": {
-        "texto": "ScienceDirect - PCR",
-        "url": "https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/polymerase-chain-reaction"
-      }
+      "frequencia_uso": "Frequente"
     },
     {
       "termo": "Hemácias (Glóbulos Vermelhos)",
       "definicao": "Células sanguíneas responsáveis pelo transporte de oxigênio dos pulmões para os tecidos e do dióxido de carbono de volta aos pulmões.",
-      "categoria": "Citologia / Hematologia",
+      "categoria": "Hematologia",
       "classificacao": "Célula",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Básico",
-      "referencia": {
-        "texto": "Tua Saúde - Hemácias",
-        "url": "https://www.tuasaude.com/hemacias/"
-      }
+      "frequencia_uso": "Raro"
     },
     {
       "termo": "ELISA (Imunossorção Enzimática)",
       "definicao": "Técnica bioquímica utilizada para detectar a presença de anticorpos, antígenos, proteínas ou outros compostos em uma amostra.",
-      "categoria": "Imunologia / Bioquímica",
+      "categoria": "Imunologia",
       "classificacao": "Técnica Laboratorial",
       "sigla": "ELISA (Enzyme-Linked Immunosorbent Assay)",
-      "frequencia_uso": "Intermediário",
-      "referencia": {
-        "texto": "Nature - ELISA",
-        "url": "https://www.nature.com/scitable/definition/elisa-19/"
-      }
+      "frequencia_uso": "Intermediário"
     },
     {
       "termo": "Homeostase",
@@ -42,11 +30,7 @@
       "categoria": "Fisiologia",
       "classificacao": "Processo Fisiológico",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Básico",
-      "referencia": {
-        "texto": "SciELO - Homeostase",
-        "url": "https://www.scielo.br/j/rbem/a/4sLkVfQbqLXwzgGyLkVfQbq/"
-      }
+      "frequencia_uso": "Raro"
     },
     {
       "termo": "RT-PCR (Transcrição Reversa)",
@@ -54,11 +38,7 @@
       "categoria": "Biologia Molecular",
       "classificacao": "Técnica Laboratorial",
       "sigla": "RT-PCR (Reverse Transcription Polymerase Chain Reaction)",
-      "frequencia_uso": "Avançado",
-      "referencia": {
-        "texto": "Thermo Fisher - RT-PCR",
-        "url": "https://www.thermofisher.com/br/pt/home/life-science/pcr/real-time-pcr/real-time-pcr-learning-center/rt-pcr.html"
-      }
+      "frequencia_uso": "Frequente"
     },
     {
       "termo": "Antígeno",
@@ -66,11 +46,7 @@
       "categoria": "Imunologia",
       "classificacao": "Molécula",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Básico",
-      "referencia": {
-        "texto": "NCBI - Antígeno",
-        "url": "https://www.ncbi.nlm.nih.gov/books/NBK27158/"
-      }
+      "frequencia_uso": "Raro"
     },
     {
       "termo": "Citocinas",
@@ -78,11 +54,7 @@
       "categoria": "Imunologia",
       "classificacao": "Molécula",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Básico",
-      "referencia": {
-        "texto": "Nature Immunology - Cytokines",
-        "url": "https://www.nature.com/subjects/cytokines"
-      }
+      "frequencia_uso": "Raro"
     },
     {
       "termo": "Apoptose",
@@ -90,11 +62,7 @@
       "categoria": "Biologia Celular",
       "classificacao": "Processo Fisiológico",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Básico",
-      "referencia": {
-        "texto": "National Institutes of Health (NIH) - Apoptosis",
-        "url": "https://www.ncbi.nlm.nih.gov/books/NBK6265/"
-      }
+      "frequencia_uso": "Raro"
     },
     {
       "termo": "Eletroforese em Gel",
@@ -102,11 +70,7 @@
       "categoria": "Biologia Molecular",
       "classificacao": "Técnica Laboratorial",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Intermediário",
-      "referencia": {
-        "texto": "Thermo Fisher Scientific - Gel Electrophoresis Basics",
-        "url": "https://www.thermofisher.com/br/en/home/life-science/protein-biology/protein-gel-electrophoresis/gel-electrophoresis-basics.html"
-      }
+      "frequencia_uso": "Intermediário"
     },
     {
       "termo": "Neutrófilo",
@@ -114,11 +78,7 @@
       "categoria": "Hematologia",
       "classificacao": "Célula",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Básico",
-      "referencia": {
-        "texto": "Sociedade Brasileira de Hematologia e Hemoterapia",
-        "url": "https://www.rbhh.org/details/264/pt-BR"
-      }
+      "frequencia_uso": "Raro"
     },
     {
       "termo": "Bacteriófago",
@@ -126,11 +86,7 @@
       "categoria": "Microbiologia",
       "classificacao": "Organismo (Vírus)",
       "sigla": "Fago",
-      "frequencia_uso": "Intermediário",
-      "referencia": {
-        "texto": "Centers for Disease Control and Prevention (CDC) - Bacteriophage",
-        "url": "https://www.cdc.gov/drugresistance/pdfs/bacteriophage-therapy-508.pdf"
-      }
+      "frequencia_uso": "Intermediário"
     },
     {
       "termo": "Epítopo",
@@ -138,11 +94,7 @@
       "categoria": "Imunologia",
       "classificacao": "Molécula",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Intermediário",
-      "referencia": {
-        "texto": "Immunology - Janeway's",
-        "url": "https://www.ncbi.nlm.nih.gov/books/NBK27156/"
-      }
+      "frequencia_uso": "Intermediário"
     },
     {
       "termo": "Trombócito",
@@ -150,11 +102,7 @@
       "categoria": "Hematologia",
       "classificacao": "Célula",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Básico",
-      "referencia": {
-        "texto": "Cleveland Clinic - Platelets",
-        "url": "https://my.clevelandclinic.org/health/body/21798-platelets"
-      }
+      "frequencia_uso": "Raro"
     },
     {
       "termo": "Nefrotoxicidade",
@@ -162,11 +110,7 @@
       "categoria": "Toxicologia",
       "classificacao": "Fenômeno Clínico",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Avançado",
-      "referencia": {
-        "texto": "Journal of Nephrology - Nephrotoxicity Review",
-        "url": "https://link.springer.com/article/10.1007/s40620-019-00624-9"
-      }
+      "frequencia_uso": "Frequente"
     },
     {
       "termo": "Autofagia",
@@ -174,11 +118,7 @@
       "categoria": "Biologia Celular",
       "classificacao": "Processo Fisiológico",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Avançado",
-      "referencia": {
-        "texto": "Cell Press - Autophagy",
-        "url": "https://www.cell.com/cell/autophagy"
-      }
+      "frequencia_uso": "Frequente"
     },
     {
       "termo": "Western Blotting",
@@ -186,23 +126,7 @@
       "categoria": "Biologia Molecular",
       "classificacao": "Técnica Laboratorial",
       "sigla": "WB",
-      "frequencia_uso": "Avançado",
-      "referencia": {
-        "texto": "Methods in Enzymology - Western Blot",
-        "url": "https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/western-blot"
-      }
-    },
-    {
-      "termo": "Cromatografia Líquida de Alta Eficiência",
-      "definicao": "Técnica analítica de separação usada em bioquímica e química clínica para isolar, identificar e quantificar componentes de uma mistura complexa, utilizando alta pressão para acelerar a separação.",
-      "categoria": "Química Clínica",
-      "classificacao": "Técnica Laboratorial",
-      "sigla": "HPLC",
-      "frequencia_uso": "Avançado",
-      "referencia": {
-        "texto": "Analytical Chemistry Journal - HPLC Applications",
-        "url": "https://pubs.acs.org/journal/ancham"
-      }
+      "frequencia_uso": "Frequente"
     },
     {
       "termo": "Linfócito T Helper",
@@ -210,11 +134,7 @@
       "categoria": "Imunologia",
       "classificacao": "Célula",
       "sigla": "LTh",
-      "frequencia_uso": "Intermediário",
-      "referencia": {
-        "texto": "Immunology Review - T Helper Cells",
-        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3653198/"
-      }
+      "frequencia_uso": "Intermediário"
     },
     {
       "termo": "Mielograma",
@@ -222,11 +142,7 @@
       "categoria": "Hematologia",
       "classificacao": "Exame Diagnóstico",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Avançado",
-      "referencia": {
-        "texto": "Mayo Clinic - Bone Marrow Biopsy and Aspiration",
-        "url": "https://www.mayoclinic.org/tests-procedures/bone-marrow-biopsy/about/pac-20393011"
-      }
+      "frequencia_uso": "Frequente"
     },
     {
       "termo": "Histopatologia",
@@ -234,11 +150,7 @@
       "categoria": "Patologia",
       "classificacao": "Área de Estudo",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Intermediário",
-      "referencia": {
-        "texto": "Sociedade Brasileira de Patologia",
-        "url": "https://www.sbp.org.br/a-patologia/"
-      }
+      "frequencia_uso": "Intermediário"
     },
     {
       "termo": "Glicólise",
@@ -246,11 +158,7 @@
       "categoria": "Bioquímica",
       "classificacao": "Processo Fisiológico",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Básico",
-      "referencia": {
-        "texto": "Khan Academy - Glycolysis",
-        "url": "https://www.khanacademy.org/science/biology/cellular-respiration-and-fermentation/glycolysis/a/glycolysis-review"
-      }
+      "frequencia_uso": "Raro"
     },
     {
       "termo": "Virulência",
@@ -258,11 +166,7 @@
       "categoria": "Microbiologia",
       "classificacao": "Propriedade Biológica",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Intermediário",
-      "referencia": {
-        "texto": "Journal of Microbiology - Virulence Factors",
-        "url": "https://www.microbiologyresearch.org/content/journal/micro/10.1099/mic.0.03816-0"
-      }
+      "frequencia_uso": "Intermediário"
     },
     {
       "termo": "Anticorpo Monoclonal",
@@ -270,11 +174,7 @@
       "categoria": "Imunologia",
       "classificacao": "Molécula",
       "sigla": "mAb",
-      "frequencia_uso": "Intermediário",
-      "referencia": {
-        "texto": "FDA - Monoclonal Antibodies",
-        "url": "https://www.fda.gov/drugs/development-approval-process-drugs/antibody-drug-conjugates"
-      }
+      "frequencia_uso": "Intermediário"
     },
     {
       "termo": "Hibridização in situ por Fluorescência",
@@ -282,11 +182,7 @@
       "categoria": "Genética",
       "classificacao": "Técnica Laboratorial",
       "sigla": "FISH",
-      "frequencia_uso": "Avançado",
-      "referencia": {
-        "texto": "National Human Genome Research Institute - FISH",
-        "url": "https://www.genome.gov/genetics-glossary/Fluorescence-In-Situ-Hybridization"
-      }
+      "frequencia_uso": "Frequente"
     },
     {
       "termo": "Macrófago",
@@ -294,11 +190,7 @@
       "categoria": "Imunologia",
       "classificacao": "Célula",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Básico",
-      "referencia": {
-        "texto": "Current Biology - Macrophage Function",
-        "url": "https://www.cell.com/current-biology/fulltext/S0960-9822(02)00971-6"
-      }
+      "frequencia_uso": "Raro"
     },
     {
       "termo": "Metabolômica",
@@ -306,11 +198,7 @@
       "categoria": "Bioquímica",
       "classificacao": "Área de Estudo",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Avançado",
-      "referencia": {
-        "texto": "The Metabolomics Society",
-        "url": "https://metabolomicssociety.org/"
-      }
+      "frequencia_uso": "Frequente"
     },
     {
       "termo": "Cascata de Coagulação",
@@ -318,11 +206,7 @@
       "categoria": "Fisiologia",
       "classificacao": "Processo Fisiológico",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Básico",
-      "referencia": {
-        "texto": "American Society of Hematology - Coagulation",
-        "url": "https://www.hematology.org/education/patients/blood-clots/coagulation-cascade"
-      }
+      "frequencia_uso": "Raro"
     },
     {
       "termo": "Cariótipo",
@@ -330,11 +214,7 @@
       "categoria": "Genética",
       "classificacao": "Estrutura",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Intermediário",
-      "referencia": {
-        "texto": "Genetics Home Reference - Karyotype",
-        "url": "https://medlineplus.gov/genetics/understanding/testing/karyotype/"
-      }
+      "frequencia_uso": "Intermediário"
     },
     {
       "termo": "Imunofluorescência",
@@ -342,11 +222,7 @@
       "categoria": "Imunologia",
       "classificacao": "Técnica Laboratorial",
       "sigla": "IF",
-      "frequencia_uso": "Intermediário",
-      "referencia": {
-        "texto": "Abcam - Immunofluorescence Guide",
-        "url": "https://www.abcam.com/protocols/immunofluorescence-if-protocol"
-      }
+      "frequencia_uso": "Intermediário"
     },
     {
       "termo": "Cultivo Celular",
@@ -354,11 +230,7 @@
       "categoria": "Biotecnologia",
       "classificacao": "Técnica Laboratorial",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Intermediário",
-      "referencia": {
-        "texto": "Sigma-Aldrich - Cell Culture Basics",
-        "url": "https://www.sigmaaldrich.com/BR/pt/life-science/cell-culture/learning-center/cell-culture-basics"
-      }
+      "frequencia_uso": "Intermediário"
     },
     {
       "termo": "Receptor Acoplado à Proteína G",
@@ -366,11 +238,7 @@
       "categoria": "Sinalização Celular",
       "classificacao": "Molécula",
       "sigla": "GPCR",
-      "frequencia_uso": "Avançado",
-      "referencia": {
-        "texto": "Science Signaling - GPCR",
-        "url": "https://www.science.org/topic/g-protein-coupled-receptor"
-      }
+      "frequencia_uso": "Frequente"
     },
     {
       "termo": "Citometria de Fluxo",
@@ -378,11 +246,7 @@
       "categoria": "Imunologia",
       "classificacao": "Técnica Laboratorial",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Avançado",
-      "referencia": {
-        "texto": "Nature Protocols - Flow Cytometry",
-        "url": "https://www.nature.com/collections/fcaigebifd"
-      }
+      "frequencia_uso": "Frequente"
     },
     {
       "termo": "Sistema Complemento",
@@ -390,11 +254,7 @@
       "categoria": "Imunologia",
       "classificacao": "Processo Fisiológico",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Intermediário",
-      "referencia": {
-        "texto": "Journal of Immunology Research - Complement System",
-        "url": "https://www.hindawi.com/journals/jir/si/431268/"
-      }
+      "frequencia_uso": "Intermediário"
     },
     {
       "termo": "Éxons",
@@ -402,11 +262,7 @@
       "categoria": "Genética Molecular",
       "classificacao": "Molécula",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Básico",
-      "referencia": {
-        "texto": "NIH National Human Genome Research Institute - Exon",
-        "url": "https://www.genome.gov/genetics-glossary/Exon"
-      }
+      "frequencia_uso": "Raro"
     },
     {
       "termo": "Splicing de RNA",
@@ -414,23 +270,15 @@
       "categoria": "Genética Molecular",
       "classificacao": "Processo Fisiológico",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Intermediário",
-      "referencia": {
-        "texto": "Cold Spring Harbor Perspectives in Biology - Splicing",
-        "url": "https://cshperspectives.cshlp.org/content/4/5/a000375.full"
-      }
+      "frequencia_uso": "Intermediário"
     },
     {
       "termo": "Major Histocompatibility Complex",
       "definicao": "Grupo de genes que codificam proteínas de superfície celular essenciais para a apresentação de antígenos aos linfócitos T, sendo cruciais no reconhecimento imunológico do próprio e do não-próprio.",
-      "categoria": "Imunologia",
+      "categoria": "Biologia Molecular",
       "classificacao": "Molécula",
       "sigla": "MHC",
-      "frequencia_uso": "Avançado",
-      "referencia": {
-        "texto": "Immunobiology: The Immune System in Health and Disease - MHC",
-        "url": "https://www.ncbi.nlm.nih.gov/books/NBK27156/"
-      }
+      "frequencia_uso": "Frequente"
     },
     {
       "termo": "Biofilme Microbiano",
@@ -438,11 +286,7 @@
       "categoria": "Microbiologia",
       "classificacao": "Estrutura Biológica",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Intermediário",
-      "referencia": {
-        "texto": "CDC - Biofilms",
-        "url": "https://www.cdc.gov/infectioncontrol/guidelines/disinfection/glossary.html#B"
-      }
+      "frequencia_uso": "Intermediário"
     },
     {
       "termo": "Plasmídeo",
@@ -450,35 +294,15 @@
       "categoria": "Microbiologia/Genética",
       "classificacao": "Molécula",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Básico",
-      "referencia": {
-        "texto": "Microbiology Society - Plasmids",
-        "url": "https://microbiologysociety.org/why-microbiology-matters/what-is-microbiology/plasmids.html"
-      }
+      "frequencia_uso": "Raro"
     },
     {
       "termo": "Sequenciamento de Nova Geração",
       "definicao": "Termo guarda-chuva para tecnologias de sequenciamento de DNA e RNA que permitem sequenciar milhões de fragmentos de ácido nucleico simultaneamente, a um custo e tempo muito inferiores aos métodos tradicionais.",
-      "categoria": "Genômica",
+      "categoria": "Biologia Molecular",
       "classificacao": "Técnica Laboratorial",
       "sigla": "NGS",
-      "frequencia_uso": "Avançado",
-      "referencia": {
-        "texto": "Illumina: Introduction to Next-Generation Sequencing",
-        "url": "https://www.illumina.com/science/technology/next-generation-sequencing.html"
-      }
-    },
-    {
-      "termo": "Farmacocinética",
-      "definicao": "Ramo da farmacologia que estuda como o corpo lida com o medicamento, abrangendo os processos de Absorção, Distribuição, Metabolismo e Excreção (ADME) de uma substância.",
-      "categoria": "Farmacologia",
-      "classificacao": "Processo Fisiológico",
-      "sigla": "Não se aplica",
-      "frequencia_uso": "Intermediário",
-      "referencia": {
-        "texto": "Merck Manual - Pharmacokinetics",
-        "url": "https://www.merckmanuals.com/professional/clinical-pharmacology/pharmacokinetics/overview-of-pharmacokinetics"
-      }
+      "frequencia_uso": "Frequente"
     },
     {
       "termo": "Eritropoiese",
@@ -486,11 +310,7 @@
       "categoria": "Hematologia",
       "classificacao": "Processo Fisiológico",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Intermediário",
-      "referencia": {
-        "texto": "Blood Journal - Erythropoiesis",
-        "url": "https://ashpublications.org/blood/article/118/4/890/25553/Erythropoiesis-New-insights-into-molecular"
-      }
+      "frequencia_uso": "Intermediário"
     },
     {
       "termo": "Célula Dendrítica",
@@ -498,11 +318,7 @@
       "categoria": "Imunologia",
       "classificacao": "Célula",
       "sigla": "DC",
-      "frequencia_uso": "Avançado",
-      "referencia": {
-        "texto": "Journal of Experimental Medicine - Dendritic Cells",
-        "url": "https://rupress.org/jem/article/190/7/883/40066/Dendritic-cells"
-      }
+      "frequencia_uso": "Frequente"
     },
     {
       "termo": "Endotoxina",
@@ -510,11 +326,7 @@
       "categoria": "Microbiologia",
       "classificacao": "Molécula",
       "sigla": "LPS",
-      "frequencia_uso": "Intermediário",
-      "referencia": {
-        "texto": "ScienceDirect - Endotoxins",
-        "url": "https://www.sciencedirect.com/topics/medicine-and-dentistry/endotoxin"
-      }
+      "frequencia_uso": "Intermediário"
     },
     {
       "termo": "Tolerância Imunológica",
@@ -522,11 +334,7 @@
       "categoria": "Imunologia",
       "classificacao": "Processo Fisiológico",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Intermediário",
-      "referencia": {
-        "texto": "Trends in Immunology - Immune Tolerance",
-        "url": "https://www.cell.com/trends/immunology/fulltext/S1471-4906(03)00249-1"
-      }
+      "frequencia_uso": "Intermediário"
     },
     {
       "termo": "Retículo Endoplasmático Rugoso",
@@ -534,11 +342,7 @@
       "categoria": "Biologia Celular",
       "classificacao": "Organela",
       "sigla": "RER",
-      "frequencia_uso": "Básico",
-      "referencia": {
-        "texto": "Molecular Biology of the Cell - ER",
-        "url": "https://www.ncbi.nlm.nih.gov/books/NBK21040/"
-      }
+      "frequencia_uso": "Raro"
     },
     {
       "termo": "Espectrometria de Massa",
@@ -546,11 +350,7 @@
       "categoria": "Química Clínica/Proteômica",
       "classificacao": "Técnica Laboratorial",
       "sigla": "MS",
-      "frequencia_uso": "Avançado",
-      "referencia": {
-        "texto": "ACS Mass Spectrometry",
-        "url": "https://pubs.acs.org/journal/jmasfg"
-      }
+      "frequencia_uso": "Frequente"
     },
     {
       "termo": "Southern Blotting",
@@ -558,11 +358,7 @@
       "categoria": "Biologia Molecular",
       "classificacao": "Técnica Laboratorial",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Intermediário",
-      "referencia": {
-        "texto": "Nature Protocols - Southern Blotting",
-        "url": "https://www.nature.com/articles/nprot.2016.143"
-      }
+      "frequencia_uso": "Intermediário"
     },
     {
       "termo": "Transdução de Sinal",
@@ -570,35 +366,23 @@
       "categoria": "Biologia Celular",
       "classificacao": "Processo Fisiológico",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Intermediário",
-      "referencia": {
-        "texto": "ScienceDirect - Signal Transduction",
-        "url": "https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/signal-transduction"
-      }
+      "frequencia_uso": "Intermediário"
     },
     {
       "termo": "Isquemia",
       "definicao": "Restrição do suprimento sanguíneo a um tecido ou órgão, causando deficiência de oxigênio (hipóxia) e nutrientes, o que pode levar à lesão celular e necrose.",
-      "categoria": "Patologia",
+      "categoria": "Fisiologia",
       "classificacao": "Processo Fisiológico",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Básico",
-      "referencia": {
-        "texto": "Cleveland Clinic - Ischemia",
-        "url": "https://my.clevelandclinic.org/health/diseases/21966-ischemia"
-      }
+      "frequencia_uso": "Raro"
     },
     {
       "termo": "Neoplasia",
       "definicao": "Crescimento anormal e descontrolado de células, que persiste após a cessação dos estímulos que causaram a alteração. Pode ser classificada como benigna ou maligna (câncer).",
-      "categoria": "Patologia",
+      "categoria": "Hematologia",
       "classificacao": "Condição Clínica",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Intermediário",
-      "referencia": {
-        "texto": "National Cancer Institute - Neoplasia",
-        "url": "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/neoplasm"
-      }
+      "frequencia_uso": "Intermediário"
     },
     {
       "termo": "Débito Cardíaco",
@@ -606,11 +390,7 @@
       "categoria": "Fisiologia",
       "classificacao": "Processo Fisiológico",
       "sigla": "DC",
-      "frequencia_uso": "Básico",
-      "referencia": {
-        "texto": "American Heart Association - Cardiac Output",
-        "url": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000000958"
-      }
+      "frequencia_uso": "Raro"
     },
     {
       "termo": "Fibrinólise",
@@ -618,11 +398,7 @@
       "categoria": "Hematologia",
       "classificacao": "Processo Fisiológico",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Intermediário",
-      "referencia": {
-        "texto": "Thrombosis Research - Fibrinolysis",
-        "url": "https://www.thrombosisresearch.com/article/S0049-3848(12)00468-2/fulltext"
-      }
+      "frequencia_uso": "Intermediário"
     },
     {
       "termo": "Peroxissomo",
@@ -630,11 +406,7 @@
       "categoria": "Biologia Celular",
       "classificacao": "Organela",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Intermediário",
-      "referencia": {
-        "texto": "Journal of Cell Biology - Peroxisome",
-        "url": "https://rupress.org/jcb/article/203/6/875/41926/The-peroxisome"
-      }
+      "frequencia_uso": "Intermediário"
     },
     {
       "termo": "CRISPR-Cas9",
@@ -642,23 +414,15 @@
       "categoria": "Edição Gênica",
       "classificacao": "Técnica Laboratorial",
       "sigla": "CRISPR",
-      "frequencia_uso": "Avançado",
-      "referencia": {
-        "texto": "Broad Institute - Understanding CRISPR-Cas9",
-        "url": "https://www.broadinstitute.org/what-is-crispr"
-      }
+      "frequencia_uso": "Frequente"
     },
     {
       "termo": "Microarranjo de DNA",
       "definicao": "Placa de vidro ou chip de silício que contém milhares de 'spots' microscópicos de DNA de fita simples (probes), usada para medir a expressão de milhares de genes simultaneamente em uma amostra biológica.",
-      "categoria": "Genômica",
+      "categoria": "Biologia Molecular",
       "classificacao": "Técnica Laboratorial",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Avançado",
-      "referencia": {
-        "texto": "Nature Education - DNA Microarrays",
-        "url": "https://www.nature.com/scitable/topicpage/dna-microarrays-explained-428/"
-      }
+      "frequencia_uso": "Frequente"
     },
     {
       "termo": "Receptor de Tipo Toll",
@@ -666,11 +430,7 @@
       "categoria": "Imunologia",
       "classificacao": "Molécula",
       "sigla": "TLR",
-      "frequencia_uso": "Avançado",
-      "referencia": {
-        "texto": "Frontiers in Immunology - Toll-like Receptors",
-        "url": "https://www.frontiersin.org/articles/10.3389/fimmu.2021.722624/full"
-      }
+      "frequencia_uso": "Frequente"
     },
     {
       "termo": "Polimorfismo de Nucleotídeo Único",
@@ -678,11 +438,7 @@
       "categoria": "Genética Molecular",
       "classificacao": "Marcador Genético",
       "sigla": "SNP",
-      "frequencia_uso": "Avançado",
-      "referencia": {
-        "texto": "National Human Genome Research Institute - SNP",
-        "url": "https://www.genome.gov/about-genomics/fact-sheets/SNP"
-      }
+      "frequencia_uso": "Frequente"
     },
     {
       "termo": "Estresse Oxidativo",
@@ -690,11 +446,7 @@
       "categoria": "Fisiopatologia",
       "classificacao": "Processo Bioquímico",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Intermediário",
-      "referencia": {
-        "texto": "Oxidative Stress in Health and Disease - Cell",
-        "url": "https://www.cell.com/cell/fulltext/S0092-8674(18)30870-1"
-      }
+      "frequencia_uso": "Intermediário"
     },
     {
       "termo": "Pressão Oncótica",
@@ -702,11 +454,7 @@
       "categoria": "Fisiologia",
       "classificacao": "Processo Físico-Químico",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Básico",
-      "referencia": {
-        "texto": "Encyclopedia Britannica - Oncotic Pressure",
-        "url": "https://www.britannica.com/science/oncotic-pressure"
-      }
+      "frequencia_uso": "Raro"
     },
     {
       "termo": "Célula Natural Killer",
@@ -714,11 +462,7 @@
       "categoria": "Imunologia",
       "classificacao": "Célula",
       "sigla": "NK",
-      "frequencia_uso": "Intermediário",
-      "referencia": {
-        "texto": "Nature Immunology - Natural Killer Cells",
-        "url": "https://www.nature.com/subjects/natural-killer-cells"
-      }
+      "frequencia_uso": "Intermediário"
     },
     {
       "termo": "Eletroforese em Duas Dimensões",
@@ -726,11 +470,7 @@
       "categoria": "Proteômica",
       "classificacao": "Técnica Laboratorial",
       "sigla": "2DE",
-      "frequencia_uso": "Avançado",
-      "referencia": {
-        "texto": "Thermo Fisher Scientific - 2D Electrophoresis",
-        "url": "https://www.thermofisher.com/br/en/home/life-science/protein-biology/protein-purification-analysis/protein-gel-electrophoresis/2d-electrophoresis.html"
-      }
+      "frequencia_uso": "Frequente"
     },
     {
       "termo": "Eixo Hipotálamo-Hipófise-Adrenal",
@@ -738,11 +478,7 @@
       "categoria": "Endocrinologia",
       "classificacao": "Sistema Fisiológico",
       "sigla": "HHA",
-      "frequencia_uso": "Intermediário",
-      "referencia": {
-        "texto": "Endocrinology and Metabolism Clinics of North America - HPA Axis",
-        "url": "https://www.sciencedirect.com/topics/neuroscience/hypothalamic-pituitary-adrenal-axis"
-      }
+      "frequencia_uso": "Intermediário"
     },
     {
       "termo": "Coloração de Gram",
@@ -750,11 +486,7 @@
       "categoria": "Microbiologia Clínica",
       "classificacao": "Técnica Laboratorial",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Básico",
-      "referencia": {
-        "texto": "Microbe Online - Gram Staining Procedure",
-        "url": "https://microbeonline.com/gram-staining-principle-procedure-results/"
-      }
+      "frequencia_uso": "Raro"
     },
     {
       "termo": "Ciclo de Krebs",
@@ -762,11 +494,7 @@
       "categoria": "Bioquímica",
       "classificacao": "Processo Metabólico",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Básico",
-      "referencia": {
-        "texto": "Khan Academy - Krebs Cycle",
-        "url": "https://pt.khanacademy.org/science/biology/cellular-respiration-and-fermentation/pyruvate-oxidation-and-the-citric-acid-cycle/a/the-citric-acid-cycle-krebs-cycle"
-      }
+      "frequencia_uso": "Raro"
     },
     {
       "termo": "Hemólise",
@@ -774,11 +502,7 @@
       "categoria": "Hematologia",
       "classificacao": "Processo Fisiopatológico",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Básico",
-      "referencia": {
-        "texto": "Journal of Clinical Pathology - Hemolysis",
-        "url": "https://jcp.bmj.com/content/62/11/985"
-      }
+      "frequencia_uso": "Raro"
     },
     {
       "termo": "Interleucina",
@@ -786,11 +510,7 @@
       "categoria": "Imunologia Molecular",
       "classificacao": "Molécula Sinalizadora",
       "sigla": "IL",
-      "frequencia_uso": "Intermediário",
-      "referencia": {
-        "texto": "Immunology Letters - Interleukins",
-        "url": "https://www.sciencedirect.com/topics/medicine-and-dentistry/interleukin"
-      }
+      "frequencia_uso": "Intermediário"
     },
     {
       "termo": "Taxa de Filtração Glomerular",
@@ -798,11 +518,7 @@
       "categoria": "Nefrologia",
       "classificacao": "Parâmetro Fisiológico",
       "sigla": "TFG",
-      "frequencia_uso": "Intermediário",
-      "referencia": {
-        "texto": "Kidney International - Glomerular Filtration Rate",
-        "url": "https://www.kidney-international.org/"
-      }
+      "frequencia_uso": "Intermediário"
     },
     {
       "termo": "Aneuploidia",
@@ -810,11 +526,7 @@
       "categoria": "Genética",
       "classificacao": "Anomalia Cromossômica",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Intermediário",
-      "referencia": {
-        "texto": "Nature Education - Aneuploidy",
-        "url": "https://www.nature.com/scitable/topicpage/aneuploidy-472/"
-      }
+      "frequencia_uso": "Intermediário"
     },
     {
       "termo": "Complexo de Golgi",
@@ -822,11 +534,7 @@
       "categoria": "Biologia Celular",
       "classificacao": "Organelo",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Básico",
-      "referencia": {
-        "texto": "Molecular Biology of the Cell - Golgi Apparatus",
-        "url": "https://www.ncbi.nlm.nih.gov/books/NBK26940/"
-      }
+      "frequencia_uso": "Raro"
     },
     {
       "termo": "Tropismo Viral",
@@ -834,11 +542,7 @@
       "categoria": "Virologia",
       "classificacao": "Propriedade Viral",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Intermediário",
-      "referencia": {
-        "texto": "Annual Review of Virology - Viral Tropism",
-        "url": "https://www.annualreviews.org/doi/abs/10.1146/annurev-virology-092917-025539"
-      }
+      "frequencia_uso": "Intermediário"
     },
     {
       "termo": "Peptidoglicano",
@@ -846,11 +550,7 @@
       "categoria": "Microbiologia",
       "classificacao": "Estrutura Molecular",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Básico",
-      "referencia": {
-        "texto": "Current Biology - Peptidoglycan",
-        "url": "https://www.cell.com/current-biology/fulltext/S0960-9822(03)00473-X"
-      }
+      "frequencia_uso": "Raro"
     },
     {
       "termo": "Metástase",
@@ -858,11 +558,7 @@
       "categoria": "Oncologia/Patologia",
       "classificacao": "Processo Patológico",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Básico",
-      "referencia": {
-        "texto": "National Cancer Institute - Metastasis",
-        "url": "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/metastasis"
-      }
+      "frequencia_uso": "Raro"
     },
     {
       "termo": "Fosfatase Alcalina",
@@ -870,11 +566,7 @@
       "categoria": "Bioquímica Clínica",
       "classificacao": "Enzima/Biomarcador",
       "sigla": "FA",
-      "frequencia_uso": "Básico",
-      "referencia": {
-        "texto": "Clinical Chemistry - Alkaline Phosphatase",
-        "url": "https://academic.oup.com/clinchem/article/43/10/1801/5103623"
-      }
+      "frequencia_uso": "Raro"
     },
     {
       "termo": "Dose Letal Média",
@@ -882,11 +574,7 @@
       "categoria": "Toxicologia",
       "classificacao": "Parâmetro Toxicológico",
       "sigla": "DL50",
-      "frequencia_uso": "Intermediário",
-      "referencia": {
-        "texto": "Organização Mundial da Saúde - LD50",
-        "url": "https://www.who.int/ipcs/publications/pesticides/jmpr/glossary.pdf"
-      }
+      "frequencia_uso": "Intermediário"
     },
     {
       "termo": "Gene Supressor de Tumor",
@@ -894,11 +582,7 @@
       "categoria": "Genética do Câncer",
       "classificacao": "Molécula/Gene",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Intermediário",
-      "referencia": {
-        "texto": "Cancer Cell - Tumor Suppressor Genes",
-        "url": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(03)00021-3"
-      }
+      "frequencia_uso": "Intermediário"
     },
     {
       "termo": "Titulação",
@@ -906,11 +590,7 @@
       "categoria": "Química Analítica",
       "classificacao": "Técnica Laboratorial",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Básico",
-      "referencia": {
-        "texto": "Royal Society of Chemistry - Titration",
-        "url": "https://edu.rsc.org/resources/titration/2012.article"
-      }
+      "frequencia_uso": "Raro"
     },
     {
       "termo": "Resistência Multidroga",
@@ -918,11 +598,7 @@
       "categoria": "Microbiologia",
       "classificacao": "Processo Biológico",
       "sigla": "MDR",
-      "frequencia_uso": "Intermediário",
-      "referencia": {
-        "texto": "CDC - Multidrug Resistance",
-        "url": "https://www.cdc.gov/drugresistance/about.html"
-      }
+      "frequencia_uso": "Intermediário"
     },
     {
       "termo": "Proteína C Reativa",
@@ -930,11 +606,7 @@
       "categoria": "Bioquímica Clínica",
       "classificacao": "Biomarcador Inflamatório",
       "sigla": "CRP",
-      "frequencia_uso": "Básico",
-      "referencia": {
-        "texto": "Circulation - C-Reactive Protein",
-        "url": "https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.106.634691"
-      }
+      "frequencia_uso": "Raro"
     },
     {
       "termo": "Imunoterapia Adotiva",
@@ -942,11 +614,7 @@
       "categoria": "Imunologia Clínica",
       "classificacao": "Terapia",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Avançado",
-      "referencia": {
-        "texto": "Journal for Immunotherapy of Cancer - Adoptive Cell Therapy",
-        "url": "https://jitc.biomedcentral.com/articles/10.1186/s40425-021-00346-6"
-      }
+      "frequencia_uso": "Frequente"
     },
     {
       "termo": "Microdissecção a Laser",
@@ -954,11 +622,7 @@
       "categoria": "Patologia Molecular",
       "classificacao": "Técnica Laboratorial",
       "sigla": "LMD",
-      "frequencia_uso": "Avançado",
-      "referencia": {
-        "texto": "Methods in Molecular Biology - Laser Microdissection",
-        "url": "https://link.springer.com/protocol/10.1007/978-1-61779-792-2_1"
-      }
+      "frequencia_uso": "Frequente"
     },
     {
       "termo": "Cílios e Flagelos",
@@ -966,11 +630,7 @@
       "categoria": "Biologia Celular",
       "classificacao": "Estrutura Celular",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Básico",
-      "referencia": {
-        "texto": "Nature Reviews Molecular Cell Biology - Cilia and Flagella",
-        "url": "https://www.nature.com/nrm/articles"
-      }
+      "frequencia_uso": "Raro"
     },
     {
       "termo": "Pletismografia",
@@ -978,11 +638,7 @@
       "categoria": "Fisiologia Respiratória",
       "classificacao": "Técnica de Diagnóstico",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Avançado",
-      "referencia": {
-        "texto": "American Thoracic Society (ATS) - Pulmonary Function Testing",
-        "url": "https://www.thoracic.org/patients/patient-resources/resources/pulmonary-function-testing.pdf"
-      }
+      "frequencia_uso": "Frequente"
     },
     {
       "termo": "Citocromo P450",
@@ -990,11 +646,7 @@
       "categoria": "Farmacologia",
       "classificacao": "Molécula",
       "sigla": "CYP",
-      "frequencia_uso": "Intermediário",
-      "referencia": {
-        "texto": "NCBI Bookshelf - Cytochrome P450",
-        "url": "https://www.ncbi.nlm.nih.gov/books/NBK557769/"
-      }
+      "frequencia_uso": "Intermediário"
     },
     {
       "termo": "Síncope Vasovagal",
@@ -1002,23 +654,15 @@
       "categoria": "Cardiologia",
       "classificacao": "Processo Fisiológico",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Básico",
-      "referencia": {
-        "texto": "Mayo Clinic - Vasovagal Syncope",
-        "url": "https://www.mayoclinic.org/diseases-conditions/vasovagal-syncope/symptoms-causes/syc-20350527"
-      }
+      "frequencia_uso": "Raro"
     },
     {
       "termo": "Degranulação",
       "definicao": "Processo celular em que grânulos armazenados em certas células (como mastócitos, basófilos e neutrófilos) liberam seu conteúdo químico (como histamina e mediadores inflamatórios) no meio extracelular em resposta a um estímulo.",
-      "categoria": "Imunologia",
+      "categoria": "Biologia Celular",
       "classificacao": "Processo Celular",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Intermediário",
-      "referencia": {
-        "texto": "Nature Reviews Immunology - Degranulation mechanisms",
-        "url": "https://www.nature.com/articles/nri3861"
-      }
+      "frequencia_uso": "Intermediário"
     },
     {
       "termo": "Análise de Sobrevida",
@@ -1026,23 +670,15 @@
       "categoria": "Bioestatística Clínica",
       "classificacao": "Técnica de Análise",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Avançado",
-      "referencia": {
-        "texto": "Journal of Clinical Oncology - Survival Analysis",
-        "url": "https://ascopubs.org/doi/full/10.1200/jco.2008.16.2084"
-      }
+      "frequencia_uso": "Frequente"
     },
     {
       "termo": "Transcritoma",
       "definicao": "O conjunto completo de moléculas de RNA, incluindo mRNA, rRNA, tRNA e outros RNAs não codificadores, expressas por um organismo ou população celular em um determinado estágio de desenvolvimento ou condição fisiológica.",
-      "categoria": "Genômica",
+      "categoria": "Biologia Molecular",
       "classificacao": "Conjunto Molecular",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Intermediário",
-      "referencia": {
-        "texto": "National Human Genome Research Institute - Transcriptome",
-        "url": "https://www.genome.gov/genetics-glossary/Transcriptome"
-      }
+      "frequencia_uso": "Intermediário"
     },
     {
       "termo": "Fenótipo de Transição Epitélio-Mesenquimal",
@@ -1050,11 +686,7 @@
       "categoria": "Oncologia Molecular",
       "classificacao": "Processo Fisiológico",
       "sigla": "EMT",
-      "frequencia_uso": "Avançado",
-      "referencia": {
-        "texto": "Cell Press - Epithelial-Mesenchymal Transition in Cancer",
-        "url": "https://www.cell.com/cell/fulltext/S0092-8674(09)00827-X"
-      }
+      "frequencia_uso": "Frequente"
     },
     {
       "termo": "Lipoproteína de Baixa Densidade",
@@ -1062,11 +694,7 @@
       "categoria": "Bioquímica Clínica",
       "classificacao": "Molécula",
       "sigla": "LDL",
-      "frequencia_uso": "Básico",
-      "referencia": {
-        "texto": "Centers for Disease Control and Prevention (CDC) - Cholesterol",
-        "url": "https://www.cdc.gov/cholesterol/ldl_hdl.htm"
-      }
+      "frequencia_uso": "Raro"
     },
     {
       "termo": "Osmolaridade Plasmática",
@@ -1074,11 +702,7 @@
       "categoria": "Fisiologia Renal",
       "classificacao": "Parâmetro Analítico",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Intermediário",
-      "referencia": {
-        "texto": "ScienceDirect - Plasma Osmolality",
-        "url": "https://www.sciencedirect.com/topics/medicine-and-dentistry/plasma-osmolality"
-      }
+      "frequencia_uso": "Intermediário"
     },
     {
       "termo": "Cariotipagem por Banda G",
@@ -1086,11 +710,7 @@
       "categoria": "Genética Laboratorial",
       "classificacao": "Técnica Laboratorial",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Intermediário",
-      "referencia": {
-        "texto": "NCBI Bookshelf - Cytogenetic Analysis",
-        "url": "https://www.ncbi.nlm.nih.gov/books/NBK1316/"
-      }
+      "frequencia_uso": "Intermediário"
     },
     {
       "termo": "Células Mesenquimais Estaminais",
@@ -1098,11 +718,7 @@
       "categoria": "Terapia Celular",
       "classificacao": "Célula",
       "sigla": "MSC",
-      "frequencia_uso": "Avançado",
-      "referencia": {
-        "texto": "International Society for Stem Cell Research (ISSCR) - Mesenchymal Stem Cells",
-        "url": "https://www.isscr.org/docs/default-source/stem-cell-basics-2023/mscs_patient_guide_isscr-1.pdf"
-      }
+      "frequencia_uso": "Frequente"
     },
     {
       "termo": "Piroptose",
@@ -1110,11 +726,7 @@
       "categoria": "Morte Celular",
       "classificacao": "Processo Celular",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Avançado",
-      "referencia": {
-        "texto": "Cell Death & Differentiation - Pyroptosis",
-        "url": "https://www.nature.com/articles/s41418-021-00803-1"
-      }
+      "frequencia_uso": "Frequente"
     },
     {
       "termo": "VDRL (Venereal Disease Research Laboratory)",
@@ -1122,11 +734,7 @@
       "categoria": "Sorologia",
       "classificacao": "Técnica Laboratorial",
       "sigla": "VDRL",
-      "frequencia_uso": "Intermediário",
-      "referencia": {
-        "texto": "Centers for Disease Control and Prevention (CDC) - Syphilis Testing",
-        "url": "https://www.cdc.gov/std/syphilis/stdfact-syphilis-testing.htm"
-      }
+      "frequencia_uso": "Intermediário"
     },
     {
       "termo": "Quimiotaxia",
@@ -1134,11 +742,7 @@
       "categoria": "Biologia Celular",
       "classificacao": "Processo Fisiológico",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Básico",
-      "referencia": {
-        "texto": "Annual Review of Immunology - Chemotaxis",
-        "url": "https://www.annualreviews.org/doi/full/10.1146/annurev.immunol.21.120601.141153"
-      }
+      "frequencia_uso": "Raro"
     },
     {
       "termo": "Glicemia de Jejum",
@@ -1146,11 +750,7 @@
       "categoria": "Bioquímica Clínica",
       "classificacao": "Parâmetro Analítico",
       "sigla": "GJ",
-      "frequencia_uso": "Básico",
-      "referencia": {
-        "texto": "American Diabetes Association (ADA) - Diagnosis",
-        "url": "https://diabetesjournals.org/care/article/43/Supplement_1/S14/30678/2-Classification-and-Diagnosis-of-Diabetes"
-      }
+      "frequencia_uso": "Raro"
     },
     {
       "termo": "Antivirais de Ação Direta",
@@ -1158,11 +758,7 @@
       "categoria": "Farmacologia",
       "classificacao": "Classe Terapêutica",
       "sigla": "DAA",
-      "frequencia_uso": "Avançado",
-      "referencia": {
-        "texto": "World Health Organization (WHO) - Direct-acting antivirals",
-        "url": "https://www.who.int/news-room/questions-and-answers/item/direct-acting-antivirals-(daas)"
-      }
+      "frequencia_uso": "Frequente"
     },
     {
       "termo": "Exossomos",
@@ -1170,11 +766,7 @@
       "categoria": "Biologia Molecular",
       "classificacao": "Vesícula Extracelular",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Avançado",
-      "referencia": {
-        "texto": "Journal of Extracellular Vesicles (JEV) - Exosomes",
-        "url": "https://www.tandfonline.com/doi/full/10.3402/jev.v1i0.18731"
-      }
+      "frequencia_uso": "Frequente"
     },
     {
       "termo": "Genotipagem",
@@ -1182,11 +774,7 @@
       "categoria": "Genética",
       "classificacao": "Técnica Laboratorial",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Intermediário",
-      "referencia": {
-        "texto": "National Human Genome Research Institute - Genotyping",
-        "url": "https://www.genome.gov/genetics-glossary/Genotyping"
-      }
+      "frequencia_uso": "Intermediário"
     },
     {
       "termo": "Proteoma",
@@ -1194,11 +782,7 @@
       "categoria": "Proteômica",
       "classificacao": "Conjunto Molecular",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Avançado",
-      "referencia": {
-        "texto": "Proteomics International - What is the Proteome?",
-        "url": "https://www.proteomics.com.au/proteomics/what-is-the-proteome/"
-      }
+      "frequencia_uso": "Frequente"
     },
     {
       "termo": "Saturação de Oxigênio",
@@ -1206,11 +790,7 @@
       "categoria": "Fisiologia Respiratória",
       "classificacao": "Parâmetro Analítico",
       "sigla": "SpO2",
-      "frequencia_uso": "Básico",
-      "referencia": {
-        "texto": "American Lung Association - Pulse Oximetry",
-        "url": "https://www.lung.org/lung-health-diseases/lung-procedures-and-tests/pulse-oximetry"
-      }
+      "frequencia_uso": "Raro"
     },
     {
       "termo": "Ensaio de MTT",
@@ -1218,11 +798,7 @@
       "categoria": "Viabilidade Celular",
       "classificacao": "Técnica Laboratorial",
       "sigla": "MTT",
-      "frequencia_uso": "Intermediário",
-      "referencia": {
-        "texto": "Journal of Pharmacological and Toxicological Methods - MTT Assay",
-        "url": "https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/mtt-assay"
-      }
+      "frequencia_uso": "Intermediário"
     },
     {
       "termo": "Receptor de Angiotensina II Tipo 1",
@@ -1230,11 +806,7 @@
       "categoria": "Fisiologia Cardiovascular",
       "classificacao": "Molécula",
       "sigla": "AT1",
-      "frequencia_uso": "Avançado",
-      "referencia": {
-        "texto": "Physiological Reviews - Angiotensin II Receptors",
-        "url": "https://journals.physiology.org/doi/full/10.1152/physrev.00018.2008"
-      }
+      "frequencia_uso": "Frequente"
     },
     {
       "termo": "Transaminase Glutâmico-Pirúvica",
@@ -1242,11 +814,7 @@
       "categoria": "Bioquímica Hepática",
       "classificacao": "Enzima",
       "sigla": "TGP",
-      "frequencia_uso": "Básico",
-      "referencia": {
-        "texto": "MedlinePlus - ALT (Alanine Aminotransferase) Test",
-        "url": "https://medlineplus.gov/lab-tests/alt-alanine-aminotransferase-test/"
-      }
+      "frequencia_uso": "Raro"
     },
     {
       "termo": "Microbiota Comensal",
@@ -1254,11 +822,7 @@
       "categoria": "Microbiologia",
       "classificacao": "Conjunto Microbiano",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Intermediário",
-      "referencia": {
-        "texto": "NIH Human Microbiome Project",
-        "url": "https://www.nih.gov/news-events/news-releases/nih-human-microbiome-project-defines-normal-bacterial-makeup-body"
-      }
+      "frequencia_uso": "Intermediário"
     },
     {
       "termo": "Vasodilatação",
@@ -1266,11 +830,7 @@
       "categoria": "Fisiologia Vascular",
       "classificacao": "Processo Fisiológico",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Básico",
-      "referencia": {
-        "texto": "Nature Reviews Cardiology - Vasodilation mechanisms",
-        "url": "https://www.nature.com/articles/nrcardio.2015.197"
-      }
+      "frequencia_uso": "Raro"
     },
     {
       "termo": "Excipiente",
@@ -1278,11 +838,7 @@
       "categoria": "Farmacologia",
       "classificacao": "Componente Farmacêutico",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Intermediário",
-      "referencia": {
-        "texto": "FDA - Guidance for Industry: Excipients",
-        "url": "https://www.fda.gov/drugs/guidance-compliance-regulatory-information/guidance-industry-nonclinical-evaluation-safety-pharmaceutical-excipients"
-      }
+      "frequencia_uso": "Intermediário"
     },
     {
       "termo": "Padrão Ouro",
@@ -1290,11 +846,7 @@
       "categoria": "Epidemiologia Clínica",
       "classificacao": "Metodologia",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Básico",
-      "referencia": {
-        "texto": "Organização Mundial da Saúde (OMS) - Padrões",
-        "url": "https://www.who.int/topics/standardization/en/"
-      }
+      "frequencia_uso": "Raro"
     },
     {
       "termo": "Biopsia por Agulha Grossa",
@@ -1302,11 +854,7 @@
       "categoria": "Patologia Clínica",
       "classificacao": "Técnica Laboratorial",
       "sigla": "BAG",
-      "frequencia_uso": "Intermediário",
-      "referencia": {
-        "texto": "American Cancer Society - Tipos de Biópsia",
-        "url": "https://www.cancer.org/treatment/understanding-your-diagnosis/tests/biopsy.html"
-      }
+      "frequencia_uso": "Intermediário"
     },
     {
       "termo": "Fator de Necrose Tumoral Alfa",
@@ -1314,11 +862,7 @@
       "categoria": "Imunologia",
       "classificacao": "Molécula",
       "sigla": "TNF-α",
-      "frequencia_uso": "Avançado",
-      "referencia": {
-        "texto": "National Center for Biotechnology Information - TNF-alpha Functions",
-        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4046757/"
-      }
+      "frequencia_uso": "Frequente"
     },
     {
       "termo": "Mutação Missense",
@@ -1326,11 +870,7 @@
       "categoria": "Genética Molecular",
       "classificacao": "Alteração Genética",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Avançado",
-      "referencia": {
-        "texto": "National Library of Medicine - Tipos de Mutações",
-        "url": "https://ghr.nlm.nih.gov/primer/mutationsanddisorders/typesofmutations"
-      }
+      "frequencia_uso": "Frequente"
     },
     {
       "termo": "Reservatório de Patógeno",
@@ -1338,11 +878,7 @@
       "categoria": "Microbiologia",
       "classificacao": "Ecologia Microbiana",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Básico",
-      "referencia": {
-        "texto": "Centers for Disease Control and Prevention - Zoonotic Diseases",
-        "url": "https://www.cdc.gov/onehealth/basics/zoonotic-diseases.html"
-      }
+      "frequencia_uso": "Raro"
     },
     {
       "termo": "Proteína Quinase B",
@@ -1350,11 +886,7 @@
       "categoria": "Sinalização Celular",
       "classificacao": "Molécula",
       "sigla": "PKB (ou Akt)",
-      "frequencia_uso": "Avançado",
-      "referencia": {
-        "texto": "Cell Signaling Technology - PI3K/Akt Signaling Pathway",
-        "url": "https://www.cellsignal.com/pathways/pi3k-akt-signaling"
-      }
+      "frequencia_uso": "Frequente"
     },
     {
       "termo": "Fibroblasto",
@@ -1362,11 +894,7 @@
       "categoria": "Histologia",
       "classificacao": "Célula",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Básico",
-      "referencia": {
-        "texto": "ScienceDirect - Fibroblastos",
-        "url": "https://www.sciencedirect.com/topics/medicine-and-dentistry/fibroblast"
-      }
+      "frequencia_uso": "Raro"
     },
     {
       "termo": "Dose de Reforço",
@@ -1374,11 +902,7 @@
       "categoria": "Vacinologia",
       "classificacao": "Farmacologia",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Básico",
-      "referencia": {
-        "texto": "Centers for Disease Control and Prevention - Vaccine Recommendations",
-        "url": "https://www.cdc.gov/vaccines/vpd/acip/recommendations.html"
-      }
+      "frequencia_uso": "Raro"
     },
     {
       "termo": "Fenotipagem de Grupo Sanguíneo",
@@ -1386,11 +910,7 @@
       "categoria": "Hematologia",
       "classificacao": "Técnica Laboratorial",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Intermediário",
-      "referencia": {
-        "texto": "AABB (Association for the Advancement of Blood and Biotherapies) - Blood Banking",
-        "url": "https://www.aabb.org/docs/default-source/default-document-library/resources/blood-banking-overview.pdf"
-      }
+      "frequencia_uso": "Intermediário"
     },
     {
       "termo": "Microgliócito",
@@ -1398,11 +918,7 @@
       "categoria": "Neurociência/Imunologia",
       "classificacao": "Célula",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Intermediário",
-      "referencia": {
-        "texto": "ScienceDirect - Microglia",
-        "url": "https://www.sciencedirect.com/topics/neuroscience/microglia"
-      }
+      "frequencia_uso": "Intermediário"
     },
     {
       "termo": "Receptor de Célula T",
@@ -1410,11 +926,7 @@
       "categoria": "Imunologia",
       "classificacao": "Molécula",
       "sigla": "TCR",
-      "frequencia_uso": "Intermediário",
-      "referencia": {
-        "texto": "British Society for Immunology - T Cell Receptors",
-        "url": "https://www.immunology.org/public-information/bitesized-immunology/cells/t-cell-receptors"
-      }
+      "frequencia_uso": "Intermediário"
     },
     {
       "termo": "Teste de Sensibilidade a Antimicrobianos",
@@ -1422,11 +934,7 @@
       "categoria": "Microbiologia Clínica",
       "classificacao": "Técnica Laboratorial",
       "sigla": "TSA",
-      "frequencia_uso": "Intermediário",
-      "referencia": {
-        "texto": "Clinical and Laboratory Standards Institute - M100 Performance Standards",
-        "url": "https://clsi.org/standards/products/microbiology/documents/m100/"
-      }
+      "frequencia_uso": "Intermediário"
     },
     {
       "termo": "Potencial de Ação",
@@ -1434,11 +942,7 @@
       "categoria": "Neurofisiologia",
       "classificacao": "Processo Fisiológico",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Básico",
-      "referencia": {
-        "texto": "Queensland Brain Institute - Action Potentials",
-        "url": "https://qbi.uq.edu.au/brain-basics/brain-body/action-potentials"
-      }
+      "frequencia_uso": "Raro"
     },
     {
       "termo": "Lipossoma",
@@ -1446,11 +950,7 @@
       "categoria": "Entrega de Medicamentos",
       "classificacao": "Nanotecnologia",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Avançado",
-      "referencia": {
-        "texto": "NCBI - Liposomes in Drug Delivery",
-        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3599026/"
-      }
+      "frequencia_uso": "Frequente"
     },
     {
       "termo": "Endotélio",
@@ -1458,11 +958,7 @@
       "categoria": "Histologia Vascular",
       "classificacao": "Tecido",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Básico",
-      "referencia": {
-        "texto": "American Heart Association Journals - Endothelial Function",
-        "url": "https://www.ahajournals.org/doi/10.1161/01.atv.0000108375.41443.e8"
-      }
+      "frequencia_uso": "Raro"
     },
     {
       "termo": "Hormônio Liberador de Gonadotropina",
@@ -1470,11 +966,7 @@
       "categoria": "Endocrinologia",
       "classificacao": "Molécula",
       "sigla": "GnRH",
-      "frequencia_uso": "Intermediário",
-      "referencia": {
-        "texto": "NCBI Bookshelf - Physiology of GnRH",
-        "url": "https://www.ncbi.nlm.nih.gov/books/NBK557762/"
-      }
+      "frequencia_uso": "Intermediário"
     },
     {
       "termo": "Índice de Massa Corporal",
@@ -1482,11 +974,7 @@
       "categoria": "Saúde Pública",
       "classificacao": "Medida Antropométrica",
       "sigla": "IMC",
-      "frequencia_uso": "Básico",
-      "referencia": {
-        "texto": "Centers for Disease Control and Prevention - About BMI",
-        "url": "https://www.cdc.gov/healthyweight/assessing/bmi/index.html"
-      }
+      "frequencia_uso": "Raro"
     },
     {
       "termo": "Duração Média da Doença",
@@ -1494,11 +982,7 @@
       "categoria": "Epidemiologia",
       "classificacao": "Métrica Estatística",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Intermediário",
-      "referencia": {
-        "texto": "ScienceDirect Topics - Disease Duration",
-        "url": "https://www.sciencedirect.com/topics/medicine-and-dentistry/disease-duration"
-      }
+      "frequencia_uso": "Intermediário"
     },
     {
       "termo": "Metanefro",
@@ -1506,11 +990,7 @@
       "categoria": "Embriologia",
       "classificacao": "Estrutura Anatômica",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Avançado",
-      "referencia": {
-        "texto": "UNSW Embryology - Metanephros",
-        "url": "https://embryology.med.unsw.edu.au/embryology/index.php/Metanephros"
-      }
+      "frequencia_uso": "Frequente"
     },
     {
       "termo": "Transfecção",
@@ -1518,23 +998,15 @@
       "categoria": "Biologia Molecular",
       "classificacao": "Técnica Laboratorial",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Intermediário",
-      "referencia": {
-        "texto": "Thermo Fisher Scientific - Transfection Basics",
-        "url": "https://www.thermofisher.com/us/en/home/references/protocols/nucleic-acid-purification-and-analysis/nucleic-acid-transfection-protocols/transfection-basics.html"
-      }
+      "frequencia_uso": "Intermediário"
     },
     {
       "termo": "Célula de Reed-Sternberg",
       "definicao": "Células gigantes e binucleadas (ou multinucleadas) características do Linfoma de Hodgkin clássico, derivadas de linfócitos B, que possuem nucléolos proeminentes (em 'olho de coruja').",
-      "categoria": "Hematopatologia",
+      "categoria": "Hematologia",
       "classificacao": "Célula Patológica",
       "sigla": "CRS",
-      "frequencia_uso": "Avançado",
-      "referencia": {
-        "texto": "Pathology Outlines - Reed-Sternberg Cells",
-        "url": "https://www.pathologyoutlines.com/topic/lymphnodesreedsternbergcells.html"
-      }
+      "frequencia_uso": "Frequente"
     },
     {
       "termo": "Vesículas Sinápticas",
@@ -1542,23 +1014,15 @@
       "categoria": "Neurobiologia",
       "classificacao": "Estrutura Subcelular",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Intermediário",
-      "referencia": {
-        "texto": "Queensland Brain Institute - Synaptic Vesicles",
-        "url": "https://qbi.uq.edu.au/brain-basics/brain-body/synaptic-vesicles"
-      }
+      "frequencia_uso": "Intermediário"
     },
     {
       "termo": "Teste Rápido (Point-of-Care Testing)",
-      "definicao": "Testes diagnósticos realizados no local de atendimento ao paciente (consultório, leito, farmácia), em contraste com os testes enviados a um laboratório central, oferecendo resultados rápidos que guiam decisões clínicas imediatas.",
+      "definicao": "Testes diagnósticos realizados no local de atendimento ao paciente (consultório, leito, farmácia), em contraste com os testes enviados a um laboratório central, oferecendo resultados rápidos que guiam as decisões clínicas imediatas.",
       "categoria": "Diagnóstico Laboratorial",
       "classificacao": "Técnica Laboratorial",
       "sigla": "POCT",
-      "frequencia_uso": "Básico",
-      "referencia": {
-        "texto": "FDA - Point-of-Care Testing",
-        "url": "https://www.fda.gov/medical-devices/vitro-diagnostics/point-care-testing"
-      }
+      "frequencia_uso": "Raro"
     },
     {
       "termo": "Genoma Viral",
@@ -1566,11 +1030,104 @@
       "categoria": "Virologia",
       "classificacao": "Molécula",
       "sigla": "Não se aplica",
-      "frequencia_uso": "Básico",
-      "referencia": {
-        "texto": "NCBI Bookshelf - Structure of Viral Genomes",
-        "url": "https://www.ncbi.nlm.nih.gov/books/NBK21523/"
-      }
+      "frequencia_uso": "Raro"
+    },
+    {
+      "termo": "Bactérias Aeróbicas",
+      "definicao": "Microrganismos que necessitam de oxigênio para sobreviver, crescer e realizar seu metabolismo energético. Utilizam o oxigênio como aceptor final de elétrons na respiração celular.",
+      "categoria": "Microbiologia",
+      "classificacao": "Classificação Fisiológica",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Intermediário"
+    },
+    {
+      "termo": "Bactérias Anaeróbicas",
+      "definicao": "Microrganismos que não necessitam de oxigênio para crescer. Podem ser anaeróbios obrigatórios (para os quais o oxigênio é tóxico), facultativos (crescem com ou sem oxigênio) ou aerotolerantes (não usam oxigênio, mas o toleram).",
+      "categoria": "Microbiologia",
+      "classificacao": "Classificação Fisiológica",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Intermediário"
+    },
+    {
+      "termo": "Hemocultura",
+      "definicao": "Exame laboratorial que consiste em cultivar uma amostra de sangue em meios de cultura específicos para detectar a presença de microrganismos (bactérias ou fungos) na corrente sanguínea, sendo essencial para o diagnóstico de sepse e bacteremia.",
+      "categoria": "Microbiologia Clínica",
+      "classificacao": "Exame Diagnóstico",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Frequente"
+    },
+    {
+      "termo": "Teste de Aglutinação em Látex",
+      "definicao": "Técnica imunológica rápida em que partículas de látex, sensibilizadas com um antígeno ou anticorpo específico, são misturadas a uma amostra do paciente. A formação de aglutinados visíveis indica um resultado positivo.",
+      "categoria": "Imunologia/Microbiologia",
+      "classificacao": "Técnica Laboratorial",
+      "sigla": "Látex",
+      "frequencia_uso": "Intermediário"
+    },
+    {
+      "termo": "Pesquisa de Rotavírus",
+      "definicao": "Teste diagnóstico, geralmente um imunoensaio rápido, realizado em amostras de fezes para detectar antígenos do rotavírus, o principal agente causador de gastroenterite viral grave em crianças pequenas.",
+      "categoria": "Virologia/Microbiologia",
+      "classificacao": "Exame Diagnóstico",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Intermediário"
+    }
+    ,
+    {
+      "termo": "Leucócitos (Glóbulos Brancos)",
+      "definicao": "Células do sistema imunológico que defendem o corpo contra infecções e doenças. Incluem neutrófilos, linfócitos, monócitos, eosinófilos e basófilos.",
+      "categoria": "Hematologia",
+      "classificacao": "Célula",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Frequente"
+    },
+    {
+      "termo": "Linfócito",
+      "definicao": "Tipo de leucócito crucial para a resposta imune adaptativa. Dividem-se em linfócitos B (produtores de anticorpos) e linfócitos T (coordenadores da resposta imune e destruição de células infectadas).",
+      "categoria": "Hematologia",
+      "classificacao": "Célula",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Intermediário"
+    },
+    {
+      "termo": "Monócito",
+      "definicao": "O maior tipo de leucócito no sangue periférico. São células fagocitárias que, ao migrarem para os tecidos, se diferenciam em macrófagos ou células dendríticas.",
+      "categoria": "Hematologia",
+      "classificacao": "Célula",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Raro"
+    },
+    {
+      "termo": "Eosinófilo",
+      "definicao": "Tipo de leucócito granulócito envolvido na defesa contra parasitas, principalmente helmintos, e em reações alérgicas. Possui grânulos citoplasmáticos que se coram em vermelho com eosina.",
+      "categoria": "Hematologia",
+      "classificacao": "Célula",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Raro"
+    },
+    {
+      "termo": "Basófilo",
+      "definicao": "O tipo menos comum de leucócito, contendo grandes grânulos citoplasmáticos que liberam histamina e heparina durante reações alérgicas e inflamatórias.",
+      "categoria": "Hematologia",
+      "classificacao": "Célula",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Raro"
+    },
+    {
+      "termo": "Agregação Plaquetária",
+      "definicao": "Processo pelo qual as plaquetas (trombócitos) aderem umas às outras no local de uma lesão vascular, formando um tampão plaquetário inicial, que é uma etapa crucial da hemostasia.",
+      "categoria": "Hematologia",
+      "classificacao": "Processo Fisiológico",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Intermediário"
+    },
+    {
+      "termo": "Esfregaço Sanguíneo",
+      "definicao": "Técnica laboratorial que consiste em espalhar uma fina camada de sangue sobre uma lâmina de vidro, que é então corada para permitir a análise morfológica das células sanguíneas (hemácias, leucócitos e plaquetas) ao microscópio.",
+      "categoria": "Hematologia",
+      "classificacao": "Técnica Laboratorial",
+      "sigla": "Não se aplica",
+      "frequencia_uso": "Frequente"
     }
   ]
 }
