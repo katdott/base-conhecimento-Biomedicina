@@ -16,7 +16,7 @@
 
 body {
     background-color: var(--bg-color);
-    background-image: linear-gradient(rgba(32, 33, 36, 0.9), rgba(32, 33, 36, 0.9)), url('./src/img/bg_biomed.png');
+    background-image: linear-gradient(rgba(32, 33, 36, 0.9), rgba(32, 33, 36, 0.9)), url('./src/img/bg_biomed2.png');
     background-size: cover;
     background-position: center;
     color: var(--secondary-color);
@@ -353,7 +353,7 @@ body.light-mode {
 }
 
 body.light-mode {
-    background-image: linear-gradient(rgba(248, 249, 250, 0.9), rgba(248, 249, 250, 0.9)), url('./src/img/bg_biomed.png');
+    background-image: linear-gradient(rgba(248, 249, 250, 0.9), rgba(248, 249, 250, 0.9)), url('./src/img/bg_biomed2.png');
 }
 
 body.light-mode div input {
@@ -489,8 +489,8 @@ input:checked+.slider .moon-icon {
     .search-container {
         flex-direction: column;
         /* Input e botão em coluna */
-        align-items: stretch;
-        /* Faz os itens ocuparem a largura total */
+        align-items: center;
+        /* Centraliza os itens */
     }
 
     div input {
@@ -500,14 +500,10 @@ input:checked+.slider .moon-icon {
     }
 
     #botao-busca {
-        width: 100%;
-        /* Botão ocupa toda a largura */
         padding: 0.8rem 1rem;
         /* Padding mais confortável */
         margin-top: 0.5rem;
         /* Espaçamento acima */
-        align-self: stretch;
-        /* Alinhamento vertical */
     }
 
     .card-container {

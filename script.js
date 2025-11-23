@@ -50,8 +50,7 @@ function renderizarCards(termos) {
       <p><strong>Categoria:</strong> ${termo.categoria}</p>
       <p><strong>Classificação:</strong> ${termo.classificacao}</p>
       <p><strong>Sigla:</strong> ${termo.sigla}</p>
-      <p><strong>Frequência de Uso:</strong> ${termo.frequencia_uso}</p>
-      <p><strong>Referência:</strong> <a href="${termo.referencia.url}" target="_blank">${termo.referencia.texto}</a></p>
+      <p><strong>Frequência de Uso:</strong> ${termo.frequencia_uso}</p>      
     `;
     cardContainer.appendChild(article);
   }
@@ -59,12 +58,7 @@ function renderizarCards(termos) {
 
 function renderizarPaginacao() {
   let paginacaoContainer = document.querySelector(".paginacao-container");
-  if (!paginacaoContainer) {
-    paginacaoContainer = document.createElement("div");
-    paginacaoContainer.classList.add("paginacao-container");
-    cardContainer.insertAdjacentElement("afterend", paginacaoContainer);
-  }
-  paginacaoContainer.innerHTML = "";
+  paginacaoContainer.innerHTML = ""; // Apenas limpa o container existente
 
   const totalPaginas = Math.ceil(termosAtuais.length / itensPorPagina);
 
@@ -107,6 +101,13 @@ async function carregarDados() {
     dados = await resposta.json();
     cardContainer.classList.add('card-container');
     termosAtuais = dados.termos;
+
+    // Cria o container da paginação uma única vez
+    if (!document.querySelector(".paginacao-container")) {
+      const paginacaoContainer = document.createElement("div");
+      paginacaoContainer.classList.add("paginacao-container");
+      cardContainer.insertAdjacentElement("afterend", paginacaoContainer);
+    }
     renderizarNavCategorias();
     inicializarModoEscuro(); // Adiciona o toggle de tema
     exibirPagina(); // Exibe a primeira página dos termos inicialmente
@@ -150,8 +151,11 @@ function renderizarNavCategorias() {
       e.preventDefault();
       categoriaSelecionada = itemMenu.dataset.categoria;
 
-
-      dropdownToggle.innerHTML = `${textoCategoria} <span>&#9662;</span>`;
+      if (categoriaSelecionada === 'todas') {
+        dropdownToggle.innerHTML = 'Categorias <span>&#9662;</span>';
+      } else {
+        dropdownToggle.innerHTML = `${textoCategoria} <span>&#9662;</span>`;
+      }
 
 
       document.querySelectorAll('.dropdown-menu a').forEach(link => link.classList.remove('active'));
