@@ -131,7 +131,9 @@ function renderizarNavCategorias() {
   const dropdownMenu = document.createElement('div');
   dropdownMenu.classList.add('dropdown-menu');
 
-  const categoriasUnicas = ['todas', ...new Set(dados.termos.map(termo => termo.categoria))];
+  // Coleta, ordena alfabeticamente e garante que 'todas' seja a primeira opção.
+  const categoriasOrdenadas = [...new Set(dados.termos.map(termo => termo.categoria))].sort((a, b) => a.localeCompare(b));
+  const categoriasUnicas = ['todas', ...categoriasOrdenadas];
 
   categoriasUnicas.forEach(categoria => {
     const itemMenu = document.createElement('a');
